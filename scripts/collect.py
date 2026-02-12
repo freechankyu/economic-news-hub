@@ -14,8 +14,22 @@ from pathlib import Path
 import feedparser
 import requests
 from dateutil import parser as date_parser
+from deep_translator import GoogleTranslator
+import re
+from bs4 import BeautifulSoup
 
-# 경로 설정
+def clean_html(raw_html):
+    """HTML tags remover (using BeautifulSoup)"""
+    if not raw_html:
+        return ""
+    try:
+        soup = BeautifulSoup(raw_html, "html.parser")
+        return soup.get_text(separator=' ', strip=True)
+    except:
+        # Fallback to regex if BS4 fails
+        cleanr = re.compile('<.*?>')
+        return re.sub(cleanr, '', raw_html).strip()
+
 BASE_DIR = Path(__file__).parent.parent
 CONFIG_DIR = BASE_DIR / "scripts" / "config"
 DATA_DIR = BASE_DIR / "data"
@@ -43,13 +57,42 @@ def generate_id(url):
     return hashlib.sha256(url.encode('utf-8')).hexdigest()[:16]
 
 
-def fetch_rss(source):
-    """RSS 피드 수집"""
+def translate_text(text, target='ko'):
+    """텍스트 번역 (영어 -> 한국어)"""
+    if not text or len(text) < 2:
+        return text
+    
     try:
-        feed = feedparser.parse(source['rss_url'])
+        # 한글이 포함되어 있으면 번역 스킵
+        if any(ord(c) > 128 for c in text):
+            return text
+            
+        translator = GoogleTranslator(source='auto', target=target)
+        return translator.translate(text)
+    except Exception as e:
+        print(f"  Translation error: {e}")
+        return text
+
+
+def fetch_rss(source):
+    """RSS 피드 수집 (User-Agent 헤더 추가)"""
+    try:
+        # User-Agent 헤더 추가하여 요청
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+        }
+        
+        # requests로 먼저 가져오기 (봇 차단 방지)
+        response = requests.get(source['rss_url'], headers=headers, timeout=10)
+        response.raise_for_status()
+        
+        # feedparser로 파싱
+        feed = feedparser.parse(response.content)
         items = []
         
-        for entry in feed.entries[:20]:  # 최근 20개만
+        print(f"  - {source['name']}: {len(feed.entries)} items found")
+        
+        for entry in feed.entries[:10]:  # 최근 10개만
             # 발행일 파싱
             published = None
             if hasattr(entry, 'published'):
@@ -64,15 +107,25 @@ def fetch_rss(source):
                 except:
                     pass
             
-            # 24시간 이내 항목만
-            if published and (datetime.now(published.tzinfo) - published).days > 1:
-                continue
+            # 24시간 이내 항목만 (테스트를 위해 주석 처리하거나 시간 늘림)
+            # if published and (datetime.now(published.tzinfo) - published).days > 1:
+            #     continue
+            
+            title = entry.title if hasattr(entry, 'title') else ''
+            link = entry.link if hasattr(entry, 'link') else ''
+            summary = entry.summary if hasattr(entry, 'summary') else ''
+            
+            # 번역 (영문 소스인 경우)
+            if source['language'] != 'ko':
+                title = translate_text(title)
+                if summary:
+                    summary = translate_text(summary[:200])
             
             item = {
-                'url': entry.link if hasattr(entry, 'link') else '',
-                'title': entry.title if hasattr(entry, 'title') else '',
-                'summary_source': entry.summary[:200] if hasattr(entry, 'summary') else '',
-                'published': published.isoformat() if published else None
+                'url': link,
+                'title': title,
+                'summary_source': summary[:200] if summary else '',
+                'published': published.isoformat() if published else datetime.now().isoformat()
             }
             
             if item['url'] and item['title']:
@@ -107,17 +160,24 @@ def classify_category(title, summary, categories):
 
 
 def generate_auto_summary(title, source_summary):
-    """자체 요약 생성 (간단한 템플릿 기반)"""
-    # 기본: 제목을 약간 변형
-    summary = title
+    """자체 요약 생성 (Safe Mode: 길이 제한 및 HTML 제거)"""
+    # 1. HTML 태그 제거
+    clean_summary = clean_html(source_summary)
     
-    # source_summary가 있으면 앞부분 50자만 사용
-    if source_summary and len(source_summary) > 10:
-        summary = source_summary[:50].strip()
-        if not summary.endswith('.'):
-            summary += '...'
+    # 2. 길이 제한 (최대 150자)
+    if len(clean_summary) > 150:
+        clean_summary = clean_summary[:150]
+        # 마지막 공백을 찾아서 자연스럽게 자름
+        last_space = clean_summary.rfind(' ')
+        if last_space > 100:
+            clean_summary = clean_summary[:last_space]
+        clean_summary += '...'
     
-    return summary
+    # 3. 내용이 없으면 제목 사용
+    if not clean_summary:
+        clean_summary = title
+    
+    return clean_summary
 
 
 def calculate_relevance(item, category):

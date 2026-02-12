@@ -26,25 +26,25 @@ document.addEventListener('DOMContentLoaded', () => {
 // 데이터 로드
 async function loadData() {
     try {
-        const response = await fetch('../data/feed-latest.json');
+        const response = await fetch('data/feed-latest.json');
         const data = await response.json();
-        
+
         allItems = data.items || [];
-        
+
         // 업데이트 시간 표시
         const updateTime = new Date(data.generated_at);
-        document.getElementById('lastUpdate').textContent = 
+        document.getElementById('lastUpdate').textContent =
             `마지막 업데이트: ${formatTime(updateTime)}`;
-        
+
         // 통계 업데이트
         updateStats();
-        
+
         // 카테고리 탭 생성
         createCategoryTabs();
-        
+
         // 기본 필터 적용
         filterCategory('전체');
-        
+
     } catch (error) {
         console.error('데이터 로드 실패:', error);
         document.getElementById('newsList').innerHTML = `
@@ -59,7 +59,7 @@ async function loadData() {
 // 통계 업데이트
 function updateStats() {
     document.getElementById('totalCount').textContent = allItems.length;
-    
+
     // 최근 6시간
     const sixHoursAgo = new Date(Date.now() - 6 * 60 * 60 * 1000);
     const recentItems = allItems.filter(item => {
@@ -67,7 +67,7 @@ function updateStats() {
         return pubTime > sixHoursAgo;
     });
     document.getElementById('recentCount').textContent = recentItems.length;
-    
+
     // 트렌딩
     const trending = allItems.filter(item => item.is_trending);
     document.getElementById('trendingCount').textContent = trending.length;
@@ -77,7 +77,7 @@ function updateStats() {
 function createCategoryTabs() {
     const categories = ['전체', ...new Set(allItems.map(item => item.category))];
     const tabsContainer = document.getElementById('categoryTabs');
-    
+
     // 전체 탭은 이미 있으므로 나머지만 추가
     categories.slice(1).forEach(cat => {
         const button = document.createElement('button');
@@ -92,7 +92,7 @@ function createCategoryTabs() {
 function filterCategory(category) {
     currentCategory = category;
     displayCount = 20;
-    
+
     // 탭 활성화 상태 변경
     const tabs = document.querySelectorAll('.category-badge');
     tabs.forEach(tab => {
@@ -102,14 +102,14 @@ function filterCategory(category) {
             tab.className = 'category-badge px-4 py-2 rounded-full bg-gray-200 text-gray-700 font-medium whitespace-nowrap hover:bg-gray-300';
         }
     });
-    
+
     // 필터링
     if (category === '전체') {
         filteredItems = allItems;
     } else {
         filteredItems = allItems.filter(item => item.category === category);
     }
-    
+
     renderNews();
 }
 
@@ -117,7 +117,7 @@ function filterCategory(category) {
 function renderNews() {
     const container = document.getElementById('newsList');
     const itemsToShow = filteredItems.slice(0, displayCount);
-    
+
     if (itemsToShow.length === 0) {
         container.innerHTML = `
             <div class="bg-gray-50 border border-gray-200 rounded-xl p-8 text-center">
@@ -126,9 +126,9 @@ function renderNews() {
         `;
         return;
     }
-    
+
     container.innerHTML = itemsToShow.map(item => createNewsCard(item)).join('');
-    
+
     // 더 보기 버튼 표시/숨김
     const loadMoreBtn = document.getElementById('loadMoreBtn');
     if (filteredItems.length > displayCount) {
@@ -142,9 +142,9 @@ function renderNews() {
 function createNewsCard(item) {
     const colorClass = categoryColors[item.category] || categoryColors['기타'];
     const publishedTime = formatTimeAgo(new Date(item.published_at));
-    const trendingBadge = item.is_trending ? 
+    const trendingBadge = item.is_trending ?
         '<span class="inline-block px-2 py-1 bg-red-500 text-white text-xs rounded-full">🔥 트렌딩</span>' : '';
-    
+
     return `
         <article class="news-card bg-white rounded-xl shadow-md p-6">
             <div class="flex justify-between items-start mb-3">
@@ -212,11 +212,11 @@ function formatTime(date) {
 function formatTimeAgo(date) {
     const now = new Date();
     const diff = Math.floor((now - date) / 1000); // 초 단위
-    
+
     if (diff < 60) return '방금 전';
     if (diff < 3600) return `${Math.floor(diff / 60)}분 전`;
     if (diff < 86400) return `${Math.floor(diff / 3600)}시간 전`;
     if (diff < 604800) return `${Math.floor(diff / 86400)}일 전`;
-    
+
     return formatTime(date);
 }

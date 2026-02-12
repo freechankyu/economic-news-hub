@@ -19,12 +19,22 @@ import re
 from bs4 import BeautifulSoup
 
 def clean_html(raw_html):
-    """HTML tags remover (using BeautifulSoup)"""
+    """HTML tags remover (using BeautifulSoup and regex fallback)"""
     if not raw_html:
         return ""
     try:
+        # First try BeautifulSoup for real HTML
         soup = BeautifulSoup(raw_html, "html.parser")
-        return soup.get_text(separator=' ', strip=True)
+        text = soup.get_text(separator=' ', strip=True)
+        
+        # If still contains HTML-like patterns (escaped or text), use regex
+        if '<' in text or '&lt;' in text:
+            # Remove escaped HTML entities
+            text = re.sub(r'&lt;.*?&gt;', '', text)
+            # Remove any remaining < > patterns
+            text = re.sub(r'<[^>]+>', '', text)
+        
+        return text.strip()
     except:
         # Fallback to regex if BS4 fails
         cleanr = re.compile('<.*?>')

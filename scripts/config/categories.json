@@ -1,0 +1,123 @@
+{
+    "categories": {
+        "거시경제": {
+            "keywords": [
+                "GDP",
+                "경제성장",
+                "실업률",
+                "고용",
+                "경기",
+                "recession",
+                "growth",
+                "employment"
+            ],
+            "priority": 10
+        },
+        "금리": {
+            "keywords": [
+                "금리",
+                "기준금리",
+                "통화정책",
+                "interest rate",
+                "monetary policy",
+                "FOMC",
+                "금통위"
+            ],
+            "priority": 10
+        },
+        "환율": {
+            "keywords": [
+                "환율",
+                "달러",
+                "원화",
+                "엔화",
+                "위안",
+                "exchange rate",
+                "forex",
+                "currency"
+            ],
+            "priority": 8
+        },
+        "주식": {
+            "keywords": [
+                "주식",
+                "증시",
+                "코스피",
+                "나스닥",
+                "다우",
+                "stock",
+                "equity",
+                "S&P"
+            ],
+            "priority": 7
+        },
+        "원자재": {
+            "keywords": [
+                "유가",
+                "금",
+                "은",
+                "구리",
+                "원자재",
+                "oil",
+                "gold",
+                "commodity",
+                "WTI",
+                "브렌트"
+            ],
+            "priority": 6
+        },
+        "부동산": {
+            "keywords": [
+                "부동산",
+                "주택",
+                "아파트",
+                "분양",
+                "real estate",
+                "housing",
+                "mortgage"
+            ],
+            "priority": 6
+        },
+        "암호화폐": {
+            "keywords": [
+                "비트코인",
+                "이더리움",
+                "암호화폐",
+                "가상자산",
+                "crypto",
+                "bitcoin",
+                "ethereum"
+            ],
+            "priority": 5
+        },
+        "정책": {
+            "keywords": [
+                "정책",
+                "규제",
+                "법",
+                "제도",
+                "policy",
+                "regulation",
+                "law"
+            ],
+            "priority": 7
+        },
+        "무역": {
+            "keywords": [
+                "무역",
+                "수출",
+                "수입",
+                "관세",
+                "trade",
+                "export",
+                "import",
+                "tariff"
+            ],
+            "priority": 6
+        },
+        "기타": {
+            "keywords": [],
+            "priority": 1
+        }
+    }
+}

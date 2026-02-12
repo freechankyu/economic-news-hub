@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="경제 뉴스 큐레이션 - 한국은행, 금융위원회 등 주요 기관의 최신 경제 정보를 한눈에">
+    <title>Economic News Hub - 경제 뉴스 큐레이션</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+        
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+        }
+        
+        .news-card {
+            transition: all 0.3s ease;
+            border-left: 4px solid transparent;
+        }
+        
+        .news-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+            border-left-color: #3b82f6;
+        }
+        
+        .category-badge {
+            transition: all 0.2s ease;
+        }
+        
+        .category-badge:hover {
+            transform: scale(1.05);
+        }
+        
+        .shimmer {
+            background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+            background-size: 200% 100%;
+            animation: shimmer 1.5s infinite;
+        }
+        
+        @keyframes shimmer {
+            0% { background-position: 200% 0; }
+            100% { background-position: -200% 0; }
+        }
+        
+        .gradient-bg {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+    </style>
+</head>
+<body class="bg-gray-50">
+    <!-- 헤더 -->
+    <header class="gradient-bg text-white shadow-lg sticky top-0 z-50">
+        <div class="container mx-auto px-4 py-6">
+            <div class="flex justify-between items-center">
+                <div>
+                    <h1 class="text-3xl font-bold">📊 Economic News Hub</h1>
+                    <p class="text-sm text-gray-200 mt-1">신뢰할 수 있는 경제 정보, 한눈에</p>
+                </div>
+                <div class="flex items-center gap-4">
+                    <span id="lastUpdate" class="text-sm text-gray-200">업데이트 중...</span>
+                    <button onclick="location.reload()" class="bg-white/20 hover:bg-white/30 px-4 py-2 rounded-lg transition">
+                        🔄 새로고침
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- 필터 탭 -->
+    <nav class="bg-white shadow-sm sticky top-[88px] z-40">
+        <div class="container mx-auto px-4">
+            <div class="flex gap-2 py-4 overflow-x-auto" id="categoryTabs">
+                <button onclick="filterCategory('전체')" class="category-badge px-4 py-2 rounded-full bg-blue-500 text-white font-medium whitespace-nowrap">
+                    전체
+                </button>
+                <!-- 동적으로 생성됨 -->
+            </div>
+        </div>
+    </nav>
+
+    <!-- 메인 컨텐츠 -->
+    <main class="container mx-auto px-4 py-8">
+        <!-- 통계 카드 -->
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+            <div class="bg-white rounded-xl shadow-md p-6">
+                <div class="text-gray-500 text-sm mb-2">전체 뉴스</div>
+                <div id="totalCount" class="text-3xl font-bold text-gray-800">-</div>
+            </div>
+            <div class="bg-white rounded-xl shadow-md p-6">
+                <div class="text-gray-500 text-sm mb-2">최근 6시간</div>
+                <div id="recentCount" class="text-3xl font-bold text-blue-600">-</div>
+            </div>
+            <div class="bg-white rounded-xl shadow-md p-6">
+                <div class="text-gray-500 text-sm mb-2">트렌딩 이슈</div>
+                <div id="trendingCount" class="text-3xl font-bold text-purple-600">-</div>
+            </div>
+        </div>
+
+        <!-- 뉴스 리스트 -->
+        <div id="newsList" class="space-y-4">
+            <!-- 로딩 스켈레톤 -->
+            <div class="shimmer h-32 rounded-xl"></div>
+            <div class="shimmer h-32 rounded-xl"></div>
+            <div class="shimmer h-32 rounded-xl"></div>
+        </div>
+
+        <!-- 더 보기 버튼 -->
+        <div class="text-center mt-8">
+            <button id="loadMoreBtn" onclick="loadMore()" class="bg-blue-500 hover:bg-blue-600 text-white font-semibold px-8 py-3 rounded-lg shadow-md transition hidden">
+                더 보기
+            </button>
+        </div>
+    </main>
+
+    <!-- 푸터 -->
+    <footer class="bg-gray-800 text-gray-300 mt-16">
+        <div class="container mx-auto px-4 py-8">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <div>
+                    <h3 class="font-bold text-white mb-4">서비스 소개</h3>
+                    <p class="text-sm">
+                        Economic News Hub는 한국은행, 금융위원회 등 신뢰할 수 있는 공공기관의 경제 정보를 수집하여 제공합니다.
+                        모든 데이터는 공식 RSS 피드를 통해 수집되며, 원문 링크를 통해 출처를 명확히 합니다.
+                    </p>
+                </div>
+                <div>
+                    <h3 class="font-bold text-white mb-4">데이터 출처</h3>
+                    <ul class="text-sm space-y-1">
+                        <li>• 한국은행 (bok.or.kr)</li>
+                        <li>• 금융위원회 (fsc.go.kr)</li>
+                        <li>• 기획재정부 (moef.go.kr)</li>
+                        <li>• 통계청 (kostat.go.kr)</li>
+                        <li>• 미국 연준 (federalreserve.gov)</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="border-t border-gray-700 mt-8 pt-8 text-center text-sm">
+                <p>본 서비스는 뉴스를 재배포하지 않으며, 메타데이터와 원문 링크만 제공합니다.</p>
+                <p class="mt-2">© 2026 Economic News Hub. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/app.js"></script>
+</body>
+</html>

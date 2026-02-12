@@ -1,6 +1,122 @@
 {
-  "generated_at": "2026-02-12T22:01:47.871960",
+  "generated_at": "2026-02-12T22:45:35.812106",
   "version": "1.0",
-  "total_items": 0,
-  "items": []
+  "total_items": 5,
+  "items": [
+    {
+      "id": "fcde64a7bdf0841e",
+      "title": "ECB and ESRB issue joint report analysing financial stability risks from linkages between banks and the non-bank financial intermediation sector",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260212~fe37ff4ed0.en.html",
+      "source": {
+        "domain": "www.ecb.europa.eu",
+        "name": "유럽중앙은행 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-02-12T12:00:00+01:00",
+      "collected_at": "2026-02-12T22:45:29.387465",
+      "category": "기타",
+      "tags": [
+        "기타"
+      ],
+      "country": "EU",
+      "summary": {
+        "auto": "ECB and ESRB issue joint report analysing financial stability risks from linkages between banks and the non-bank financial intermediation sector",
+        "source": ""
+      },
+      "relevance_score": 70,
+      "is_trending": false
+    },
+    {
+      "id": "51eb8cc70fe18867",
+      "title": "Piero Cipollone: Europe and monetary sovereignty",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260212~9fabe9baaa.en.html",
+      "source": {
+        "domain": "www.ecb.europa.eu",
+        "name": "유럽중앙은행 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-02-12T10:00:00+01:00",
+      "collected_at": "2026-02-12T22:45:29.387512",
+      "category": "기타",
+      "tags": [
+        "기타"
+      ],
+      "country": "EU",
+      "summary": {
+        "auto": "Piero Cipollone: Europe and monetary sovereignty",
+        "source": ""
+      },
+      "relevance_score": 70,
+      "is_trending": false
+    },
+    {
+      "id": "d7346c0291b38f39",
+      "title": "Isabel Schnabel: Made in Europe",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260211~2822ae9612.en.html",
+      "source": {
+        "domain": "www.ecb.europa.eu",
+        "name": "유럽중앙은행 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-02-11T18:00:00+01:00",
+      "collected_at": "2026-02-12T22:45:29.387539",
+      "category": "기타",
+      "tags": [
+        "기타"
+      ],
+      "country": "EU",
+      "summary": {
+        "auto": "Isabel Schnabel: Made in Europe",
+        "source": ""
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    },
+    {
+      "id": "ce33b89fce42f942",
+      "title": "New data release: ECB wage tracker continues to suggest normalisation of negotiated wage pressures in 2026",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260211_1~dd029e0063.en.html",
+      "source": {
+        "domain": "www.ecb.europa.eu",
+        "name": "유럽중앙은행 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-02-11T10:00:00+01:00",
+      "collected_at": "2026-02-12T22:45:29.387563",
+      "category": "기타",
+      "tags": [
+        "기타"
+      ],
+      "country": "EU",
+      "summary": {
+        "auto": "New data release: ECB wage tracker continues to suggest normalisation of negotiated wage pressures in 2026",
+        "source": ""
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    },
+    {
+      "id": "e826ae054676c3ef",
+      "title": "ECB appoints Thomas Broeng Jorgensen as Director General Specialised Institutions and Less Significant Institutions",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260211~ec2605cbb3.en.html",
+      "source": {
+        "domain": "www.ecb.europa.eu",
+        "name": "유럽중앙은행 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-02-11T09:15:00+01:00",
+      "collected_at": "2026-02-12T22:45:29.387585",
+      "category": "기타",
+      "tags": [
+        "기타"
+      ],
+      "country": "EU",
+      "summary": {
+        "auto": "ECB appoints Thomas Broeng Jorgensen as Director General Specialised Institutions and Less Significant Institutions",
+        "source": ""
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-05T04:00:11.199131",
+  "generated_at": "2026-03-05T04:46:48.303586",
   "version": "1.0",
-  "total_items": 36,
+  "total_items": 26,
   "items": [
     {
       "id": "c66a737b60bafe06",
@@ -27,87 +27,39 @@
       "is_trending": false
     },
     {
-      "id": "a127a9c14a066a85",
-      "title": "통화정책방향(2026.2.26) - bok.or.kr",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQUy1WU3N1NEtKWUhGZ3EzSWRSR1pXM1VqM3doR0F0NTVYY3RsVmpsaktDMHYzeFVxR1VjemVpelBnVmVQM2U1RTF5cDFuSllnRXc5QmNCWDEwSGowc0FsdXBvQVdGZVRqZTlXaE1Yald0Qklqd0Uwem1tVGpnYjFLWERJRG1Zdi04MXl3MDNSZURkOTZ0d3pSR1NkcTlVZVNGSlUtVFZvVXlSWHFCaHJKM0t1UTNlLWdNTWt3NHZmQlZnU1RpM2k1cGYzVEd0YS1IbFRweUl1YzRiMjJrUHRHRHpQVkE0dG5TUFZYSEVnQXVCbmN5aTAyTXNhRm1jYUpHQzRQV0Z4OE4xVm5wbG1iMHptdmpmVFk4NU5yUGYtMmJJaC1aUGVxVzdaLUw?oc=5",
-      "source": {
-        "domain": "www.bok.or.kr",
-        "name": "한국은행 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-02-26T03:21:25+00:00",
-      "collected_at": "2026-03-05T03:59:56.282597",
-      "category": "금리",
-      "tags": [
-        "금리",
-        "한국은행"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "통화정책방향(2026.2.26) - bok.or.kr",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMirAJBVV95cUxQUy1WU3N1NEtKWUhGZ3EzSWRSR1pXM1VqM3doR0"
-      },
-      "relevance_score": 65,
-      "is_trending": false
-    },
-    {
-      "id": "2318d0512b4ccbfc",
-      "title": "주요정책문답 - 금융위원회",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU0hIUWhUN2JFdXdhYVFQeFpPOU5ydDFwMkYtSGlqREJBMjU5c09hdDZFYndib0FIMTA2T0RWbzVZLUN3VUIwOUozNmtRVHlVRlRwXzM5dUQ3ZkY4cjhZeDh5S0dMdjlJX0NneGMwaVFYSmF5cEVOQUxlaG13Y2pWQjBjT0doR1UyNGhheWNwTERaV1c1RjZLZndLRFA4WGtTTlE?oc=5",
-      "source": {
-        "domain": "www.fsc.go.kr",
-        "name": "금융위원회 보도자료",
-        "type": "public"
-      },
-      "published_at": "2025-06-30T07:00:00+00:00",
-      "collected_at": "2026-03-05T03:59:56.888187",
-      "category": "정책",
-      "tags": [
-        "정책",
-        "금융위"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "주요정책문답 - 금융위원회",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOU0hIUWhUN2JFdXdhYVFQeFpPOU5ydDFwMkYtSG"
-      },
-      "relevance_score": 65,
-      "is_trending": false
-    },
-    {
-      "id": "13f03c0f2cac3f65",
-      "title": "2025년 하반기 지역별고용조사 시군구 주요고용지표",
-      "url": "https://mods.go.kr/board.es?mid=a10301030300&act=view&bid=211&list_no=443656",
+      "id": "ec5df47c3917a34d",
+      "title": "2026년 1월 국내인구이동통계",
+      "url": "https://mods.go.kr/board.es?mid=a10301020400&act=view&bid=205&list_no=443687",
       "source": {
         "domain": "kostat.go.kr",
         "name": "통계청 보도자료",
         "type": "public"
       },
-      "published_at": "2026-02-23T10:59:00",
-      "collected_at": "2026-03-05T04:00:00.972991",
+      "published_at": "2026-02-24T18:07:00",
+      "collected_at": "2026-03-05T04:46:38.891022",
       "category": "거시경제",
       "tags": [
         "거시경제"
       ],
       "country": "KR",
       "summary": {
-        "auto": "▣ 취업자 및 고용률\n\n ❍ 9개 도 시지역의 취업자는 1,417만 8천명으로 전년동기대비 11만 6천명 증가하였고, 고용률은 62.4%로 동일하였음\n\n ❍ 9개 도 군지역의 취업자는 210만 4천명으로 전년동기대비 1만 1천명 감소하였고, 고용률은 68.9%로...",
-        "source": "▣ 취업자 및 고용률\n\n ❍ 9개 도 시지역의 취업자는 1,417만 8천명으로 전년동기대비 11만 6천명 증가하였고, 고용률은 62.4%로 동일하였음\n\n ❍ 9개 도 군지역의 취업"
+        "auto": "2026년 1월 국내인구이동 결과\n\n□ 2026년 1월 중 이동자 수 56만 8천 명, 전년동월대비 11.5% 증가함.\n\n□1월 중 인구이동률(인구 1백 명당 이동자 수) 13.1%, 전년동월대비 1.4%p 증가함.\n\n□시도별 순이동(전입-전출)은...",
+        "source": "2026년 1월 국내인구이동 결과\n\n□ 2026년 1월 중 이동자 수 56만 8천 명, 전년동월대비 11.5% 증가함.\n\n□1월 중 인구이동률(인구 1백 명당 이동자 수) 13.1"
       },
       "relevance_score": 65,
       "is_trending": false
     },
     {
-      "id": "4421548deb2b0046",
-      "title": "연방준비제도이사회(Federal Reserve Board)는 First Financial Bank의 전직 직원에 대해 집행 조치를 취합니다.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260224a.htm",
+      "id": "f19a440e5e76bc20",
+      "title": "연방준비제도이사회(Federal Reserve Board)는 East Cambridge Savings Bank의 전 직원 및 United Bank의 전 직원에 대해 집행 조치를 취합니다.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260303a.htm",
       "source": {
         "domain": "www.federalreserve.gov",
         "name": "미국 연방준비제도 보도자료",
         "type": "public"
       },
-      "published_at": "2026-02-24T16:00:00+00:00",
-      "collected_at": "2026-03-05T04:00:04.341522",
+      "published_at": "2026-03-03T16:00:00+00:00",
+      "collected_at": "2026-03-05T04:46:45.269227",
       "category": "정책",
       "tags": [
         "정책",
@@ -115,23 +67,23 @@
       ],
       "country": "US",
       "summary": {
-        "auto": "연방준비제도이사회(Federal Reserve Board)는 First Financial Bank의 전직 직원에 대해 집행 조치를 취합니다.",
-        "source": "연방준비제도이사회(Federal Reserve Board)는 First Financial Bank의 전직 직원에 대해 집행 조치를 취합니다."
+        "auto": "연방준비제도이사회(Federal Reserve Board)는 East Cambridge Savings Bank의 전 직원 및 United Bank의 전 직원에 대해 집행 조치를 취합니다.",
+        "source": "연방준비제도이사회(Federal Reserve Board)는 East Cambridge Savings Bank의 전 직원 및 United Bank의 전 직원에 대해 집행 조치를 취"
       },
       "relevance_score": 65,
       "is_trending": false
     },
     {
-      "id": "d1d8ca89912b693b",
-      "title": "연방준비제도이사회(Federal Reserve Board)는 Fulton Financial Corporation의 신청 승인을 발표했습니다.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260219a.htm",
+      "id": "957ad481dbade360",
+      "title": "은행 감독에서 평판 위험을 제거하기 위한 이전 조치에 이어 연방준비제도이사회(Federal Reserve Board)는 해당 제거를 성문화하기 위한 제안에 대한 의견을 요청합니다.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260223a.htm",
       "source": {
         "domain": "www.federalreserve.gov",
         "name": "미국 연방준비제도 보도자료",
         "type": "public"
       },
-      "published_at": "2026-02-19T21:30:00+00:00",
-      "collected_at": "2026-03-05T04:00:04.341624",
+      "published_at": "2026-02-23T22:00:00+00:00",
+      "collected_at": "2026-03-05T04:46:45.269351",
       "category": "정책",
       "tags": [
         "정책",
@@ -139,23 +91,46 @@
       ],
       "country": "US",
       "summary": {
-        "auto": "연방준비제도이사회(Federal Reserve Board)는 Fulton Financial Corporation의 신청 승인을 발표했습니다.",
-        "source": "연방준비제도이사회(Federal Reserve Board)는 Fulton Financial Corporation의 신청 승인을 발표했습니다."
+        "auto": "은행 감독에서 평판 위험을 제거하기 위한 이전 조치에 이어 연방준비제도이사회(Federal Reserve Board)는 해당 제거를 성문화하기 위한 제안에 대한 의견을 요청합니다.",
+        "source": "은행 감독에서 평판 위험을 제거하기 위한 이전 조치에 이어 연방준비제도이사회(Federal Reserve Board)는 해당 제거를 성문화하기 위한 제안에 대한 의견을 요청합니다."
       },
       "relevance_score": 65,
       "is_trending": false
     },
     {
-      "id": "3de9fce310a292be",
-      "title": "연방준비제도이사회(Federal Reserve Board), 리전 은행(Regions Bank) 전직 직원에게 집행 조치 발부",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260212a.htm",
+      "id": "b27d922f8b37cfa6",
+      "title": "연방준비제도이사회(FRB)는 경제 성장 및 규제 서류 축소법(EGRPRA)에 따른 규정 검토의 일환으로 3월 26일 목요일에 하이브리드 공개 홍보 회의를 개최할 것이라고 발표했습니다.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260219a.htm",
       "source": {
         "domain": "www.federalreserve.gov",
         "name": "미국 연방준비제도 보도자료",
         "type": "public"
       },
-      "published_at": "2026-02-12T16:00:00+00:00",
-      "collected_at": "2026-03-05T04:00:04.341783",
+      "published_at": "2026-02-19T20:00:00+00:00",
+      "collected_at": "2026-03-05T04:46:45.269433",
+      "category": "정책",
+      "tags": [
+        "정책"
+      ],
+      "country": "US",
+      "summary": {
+        "auto": "연방준비제도이사회(FRB)는 경제 성장 및 규제 서류 축소 A에 따른 규정 검토의 일환으로 3월 26일 목요일에 하이브리드 공개 홍보 회의를 개최할 것이라고 발표했습니다.",
+        "source": "연방준비제도이사회(FRB)는 경제 성장 및 규제 서류 축소 A에 따른 규정 검토의 일환으로 3월 26일 목요일에 하이브리드 공개 홍보 회의를 개최할 것이라고 발표했습니다."
+      },
+      "relevance_score": 65,
+      "is_trending": false
+    },
+    {
+      "id": "c15e6683740f3e51",
+      "title": "연방준비제도이사회(Federal Reserve Board)는 Cooperativa de Ahorro y Credito Elga, Ltda의 신청 승인을 발표했습니다.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260212a.htm",
+      "source": {
+        "domain": "www.federalreserve.gov",
+        "name": "미국 연방준비제도 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-02-12T21:00:00+00:00",
+      "collected_at": "2026-03-05T04:46:45.269512",
       "category": "정책",
       "tags": [
         "정책",
@@ -163,46 +138,47 @@
       ],
       "country": "US",
       "summary": {
-        "auto": "연방준비제도이사회(Federal Reserve Board), 리전 은행(Regions Bank) 전직 직원에게 집행 조치 발부",
-        "source": "연방준비제도이사회(Federal Reserve Board), 리전 은행(Regions Bank) 전직 직원에게 집행 조치 발부"
+        "auto": "연방준비제도이사회(Federal Reserve Board)는 Cooperativa de Ahorro y Credito Elga, Ltda의 신청 승인을 발표했습니다.",
+        "source": "연방준비제도이사회(Federal Reserve Board)는 Cooperativa de Ahorro y Credito Elga, Ltda의 신청 승인을 발표했습니다."
       },
       "relevance_score": 65,
       "is_trending": false
     },
     {
-      "id": "e19a4d765a65d1aa",
-      "title": "Christine Lagarde: Turning size into scale: Europe’s new growth model",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260223~4c2aa74452.en.html",
+      "id": "5d01cb93a7b2d8a7",
+      "title": "연방준비제도이사회(Federal Reserve Board)는 연간 스트레스 테스트에 대한 가상 시나리오를 확정하고 대중 피드백을 고려할 수 있을 때까지 현재의 스트레스 테스트 관련 자본 요구 사항을 유지하기 위해 투표합니다.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260204a.htm",
       "source": {
-        "domain": "www.ecb.europa.eu",
-        "name": "유럽중앙은행 보도자료",
+        "domain": "www.federalreserve.gov",
+        "name": "미국 연방준비제도 보도자료",
         "type": "public"
       },
-      "published_at": "2026-02-23T18:30:00+01:00",
-      "collected_at": "2026-03-05T04:00:10.742076",
-      "category": "거시경제",
+      "published_at": "2026-02-04T21:30:00+00:00",
+      "collected_at": "2026-03-05T04:46:45.269584",
+      "category": "정책",
       "tags": [
-        "거시경제"
+        "정책",
+        "연준"
       ],
-      "country": "EU",
+      "country": "US",
       "summary": {
-        "auto": "Christine Lagarde: Turning size into scale: Europe’s new growth model",
-        "source": ""
+        "auto": "연방준비제도이사회(Federal Reserve Board)는 연간 스트레스 테스트에 대한 가상 시나리오를 확정하고 대중 피드백을 고려할 수 있을 때까지 현재의 스트레스 테스트 관련 자본 요구 사항을 유지하기 위해 투표합니다.",
+        "source": "연방준비제도이사회(Federal Reserve Board)는 연간 스트레스 테스트에 대한 가상 시나리오를 확정하고 대중 피드백을 고려할 수 있을 때까지 현재의 스트레스 테스트 관련"
       },
       "relevance_score": 65,
       "is_trending": false
     },
     {
-      "id": "e707137bd14864c1",
-      "title": "통계조사보조원 채용안내 - 한국은행 경제통계시스템(ECOS)",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBjbFR2YU9ZUnRsZEJjdk1ZUDJnYVVpTDdLVGxnLUctRE10TnBRdVRIZGtZNkxUQlVIdzZ1eFI2WHBVOFhFZWc?oc=5",
+      "id": "89761f8d0a7a8d80",
+      "title": "한국은행 - bok.or.kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtZ3F2U093Vktrd1k0NUl2M01oak5BVC1FR0tITHV1MVFTQXZLVlIwVFR5Yl9FM1NKcUNiRF92b2pRRkZuR0ZBZ1ZRS3RDakNCeXow?oc=5",
       "source": {
         "domain": "www.bok.or.kr",
         "name": "한국은행 보도자료",
         "type": "public"
       },
-      "published_at": "2025-01-31T16:05:07+00:00",
-      "collected_at": "2026-03-05T03:59:56.282909",
+      "published_at": "2018-05-14T03:30:58+00:00",
+      "collected_at": "2026-03-05T04:46:34.591299",
       "category": "원자재",
       "tags": [
         "원자재",
@@ -210,23 +186,71 @@
       ],
       "country": "KR",
       "summary": {
-        "auto": "통계조사보조원 채용안내",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTFBjbFR2YU9ZUnRsZEJjdk1ZUDJnYVVpTDdLVGxnLU"
+        "auto": "한국은행 &",
+        "source": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtZ3F2U093Vktrd1k0NUl2M01oak5BVC1FR0tITH"
       },
       "relevance_score": 50,
       "is_trending": false
     },
     {
-      "id": "70ca95e5cce40d62",
-      "title": "[제2026-5호] Lending to vulnerable households and consumption: Evidence from Korea - bok.or.kr",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMy1uTDZwdjVlMUVOak9RcWdIMTBjaTEwTEJqb25BaVJ2eURwUUdnNXFKMnlLb29NblhQRkdaNHdBRnlBaExXYk1sQllvZ19xU1FyQk1CZ25kaGZOVFlWbkxxNDBlM3gweUNOV2t5TWFaT0xxN01VVFlnWWxJWWFMazV3TVJXUUFSNjg5N3NFeDNNMlVxNFNfaFY0WGJ3YWExSV9CM0NsSlltWTE0YnBDV2pWR2lsQ05XVVBLMHBR?oc=5",
+      "id": "cb25d7fb59e210f7",
+      "title": "한국은행 경제통계시스템(ECOS) - 한국은행 경제통계시스템(ECOS)",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5BOTVzdVd6enk2dndud1JwX2Q0bHRCMmF4R1NsTVBJNi1nYThUalJleVR4RC12TjVmYjBN?oc=5",
       "source": {
         "domain": "www.bok.or.kr",
         "name": "한국은행 보도자료",
         "type": "public"
       },
-      "published_at": "2026-02-11T10:29:24+00:00",
-      "collected_at": "2026-03-05T03:59:56.283095",
+      "published_at": "2012-05-01T18:27:25+00:00",
+      "collected_at": "2026-03-05T04:46:34.591557",
+      "category": "원자재",
+      "tags": [
+        "원자재",
+        "한국은행"
+      ],
+      "country": "KR",
+      "summary": {
+        "auto": "한국은행 경제통계시스템(ECOS)",
+        "source": "<a href=\"https://news.google.com/rss/articles/CBMiO0FVX3lxTE5BOTVzdVd6enk2dndud1JwX2Q0bHRCMmF4R1NsTV"
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    },
+    {
+      "id": "c341c19ce625addf",
+      "title": "한국은행 Open API 서비스 - 한국은행 경제통계시스템(ECOS)",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE54ZUF6LW5GZHBHQ0czRkkxQ1R3aGhWRGUzaWVKTHdCYXpoeVhvMHYyMlphb3YwdDNEWmZHNHItUFo?oc=5",
+      "source": {
+        "domain": "www.bok.or.kr",
+        "name": "한국은행 보도자료",
+        "type": "public"
+      },
+      "published_at": "2022-09-11T07:34:21+00:00",
+      "collected_at": "2026-03-05T04:46:34.591720",
+      "category": "원자재",
+      "tags": [
+        "원자재",
+        "한국은행"
+      ],
+      "country": "KR",
+      "summary": {
+        "auto": "한국은행 Open API 서비스",
+        "source": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE54ZUF6LW5GZHBHQ0czRkkxQ1R3aGhWRGUzaWVKTH"
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    },
+    {
+      "id": "47c1aeba19086be1",
+      "title": "- bok.or.kr",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5zV3U1N2RVQU5KMGdhZTRCa0VwalFUSjRDeGhUYUlmMThUN1NZZEt6UldHQ2VjdzdoQW9obzZBUTltTHFvM0E?oc=5",
+      "source": {
+        "domain": "www.bok.or.kr",
+        "name": "한국은행 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-02-27T11:33:32+00:00",
+      "collected_at": "2026-03-05T04:46:34.591874",
       "category": "기타",
       "tags": [
         "기타",
@@ -234,614 +258,356 @@
       ],
       "country": "KR",
       "summary": {
-        "auto": "[제2026-5호] Lending to vulnerable households and consumption: Evidence from Korea - bok.or.kr",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNMy1uTDZwdjVlMUVOak9RcWdIMTBjaTEwTEJqb2"
+        "auto": "- bok.or.kr",
+        "source": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE5zV3U1N2RVQU5KMGdhZTRCa0VwalFUSjRDeGhUYU"
       },
       "relevance_score": 50,
       "is_trending": false
     },
     {
-      "id": "dbe7585e083c380f",
-      "title": "금융위원회 - 금융위원회",
-      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WQXZkdU1rVS1MOG4tQjdiVE5oWFgwX2ktaWtrc1RKbXl4eDNYSUNteEV5NV84V3h6MXc?oc=5",
+      "id": "12cae84cf44a5cb5",
+      "title": "[보도자료] 2026년 1월중 거주자외화예금 동향 | 기타 보도자료(상세) | 보도자료 | 뉴스 및 의사록 | 뉴스/자료 - bok.or.kr",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdVY2Rm1PUG5KdmtSTGt6YXdNVVZKQVZJLXcwLWVtbTczNTc4ODVjbHRuRk5LTjR2cllIbHJEUTFkX1Rwb20xZVhPMG5hYVBqd0FzbkRTaXgxbHdvdXNvTC1UN2Jvd1hmaVdWakxEMEdrVnlYb1VsSWZoMDFwaUtlLV82N0g1Q2dDd2h4VW5iZzNZUG95VjN2VHJfZ2ZRbEFkazlFcndublkzSWxvaE5WVTQyU0ZIRXdWMU1NWjdn?oc=5",
       "source": {
-        "domain": "www.fsc.go.kr",
-        "name": "금융위원회 보도자료",
+        "domain": "www.bok.or.kr",
+        "name": "한국은행 보도자료",
         "type": "public"
       },
-      "published_at": "2016-01-06T08:27:22+00:00",
-      "collected_at": "2026-03-05T03:59:56.887150",
+      "published_at": "2026-02-27T03:49:42+00:00",
+      "collected_at": "2026-03-05T04:46:34.592033",
       "category": "원자재",
       "tags": [
         "원자재",
-        "금융위"
+        "한국은행"
       ],
       "country": "KR",
       "summary": {
-        "auto": "금융위원회 금융위원회",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WQXZkdU1rVS1MOG4tQjdiVE5oWFgwX2ktaWtrc1"
+        "auto": "[보도자료] 2026년 1월중 거주자외화예금 동향 | 기타 보도자료(상세) | 보도자료 | 뉴스 및 의사록 | 뉴스/자료 - bok.or.kr",
+        "source": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPdVY2Rm1PUG5KdmtSTGt6YXdNVVZKQVZJLXcwLW"
       },
       "relevance_score": 50,
       "is_trending": false
     },
     {
-      "id": "e40e629deda3862a",
-      "title": "보도자료 - 위원회 소식 - 알림마당 - 금융위원회",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9jYURadjZjZWtJQ2dzTzBINjJ4NTNZWUk4bVZOVUhyNnd1TTJpOGJzUFlsekZuWDFwSHNseWlPbkNtUjFv?oc=5",
+      "id": "5213048770470cb7",
+      "title": "최근 소비부진과 가계의 시간선호 변화 | BOK 경제리뷰(상세) | 발간중지 간행물 | 간행물 | 뉴스/자료 - bok.or.kr",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOG5tc1hXNHNucE8zc2llU1gzYmt2cUZNa2tBUWpaSkpJWHVEckd6ckU3UlB3WVpMY0k0ampUWmNXcllHeEwxbXU1TW53bjJpNVlRbElDZmVmLWxYR0lzc0tFTGtiVEtuZWItQlBXR1p1VmEydUZ5Tk9hODE3V3VNekFYNjV5eTRxVnF4REhiaFFhZw?oc=5",
       "source": {
-        "domain": "www.fsc.go.kr",
-        "name": "금융위원회 보도자료",
+        "domain": "www.bok.or.kr",
+        "name": "한국은행 보도자료",
         "type": "public"
       },
-      "published_at": "2021-02-03T08:15:44+00:00",
-      "collected_at": "2026-03-05T03:59:56.887451",
-      "category": "원자재",
-      "tags": [
-        "원자재",
-        "금융위"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "보도자료 - 위원회 소식 - 알림마당 &nbsp",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE9jYURadjZjZWtJQ2dzTzBINjJ4NTNZWUk4bVZOVU"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "665b69ef08333f6f",
-      "title": "보도자료 - 금융위원회",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR18tR0hzTHktZWUzQ19wekE3Zi1EUGpJbDhHeFdvOTV1YTdYdGYxbDdTbVBNZ0l2LVJ4RGQ1dnFtTktSWm5hSjBTc3hUeE5YMjJLY3dQUjlUR05Xd2hnaHZKWk9vQ3FiMGhKM3NURGw5aV83d3pHVTVjNGpsQlRPVnJNWFE0V2NhZWJNcVg5UmFPMkJnaGhaWVY1V2RORm13?oc=5",
-      "source": {
-        "domain": "www.fsc.go.kr",
-        "name": "금융위원회 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-03-03T01:20:59+00:00",
-      "collected_at": "2026-03-05T03:59:56.887605",
-      "category": "원자재",
-      "tags": [
-        "원자재",
-        "금융위"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "보도자료 - 금융위원회",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQR18tR0hzTHktZWUzQ19wekE3Zi1EUGpJbDhHeF"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "f2e0828e7aa501dc",
-      "title": "조직도 - 금융위원회",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA4VTc0LUk0X1JveFBjdHc5ZXkyaC1aM2ZLRlZBdjdyYy1lRDU2OVY3TEhmX2NIX0k3V0VvWjgxR3otWThNNUE?oc=5",
-      "source": {
-        "domain": "www.fsc.go.kr",
-        "name": "금융위원회 보도자료",
-        "type": "public"
-      },
-      "published_at": "2021-03-13T03:40:30+00:00",
-      "collected_at": "2026-03-05T03:59:56.887686",
-      "category": "원자재",
-      "tags": [
-        "원자재",
-        "금융위"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "조직도",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTFA4VTc0LUk0X1JveFBjdHc5ZXkyaC1aM2ZLRlZBdj"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "f6c91f00f7b9e82f",
-      "title": "보도설명자료 - 금융위원회",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE13Nk5qcW5WVG5BcEVyV0xrMm1vTHliTHFiYzhrdWYtWTBtYlQwV3FHb2QxUUIxQ0Z0Y2lUQUhqOXU4WTltVGlj?oc=5",
-      "source": {
-        "domain": "www.fsc.go.kr",
-        "name": "금융위원회 보도자료",
-        "type": "public"
-      },
-      "published_at": "2025-12-01T08:00:00+00:00",
-      "collected_at": "2026-03-05T03:59:56.887824",
-      "category": "원자재",
-      "tags": [
-        "원자재",
-        "금융위"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "보도설명자료",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE13Nk5qcW5WVG5BcEVyV0xrMm1vTHliTHFiYzhrdW"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "05beaecad8bbc6e8",
-      "title": "[보도자료] 「가계부채 관리 강화방안」발표 - 금융위원회",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5aSGZiUEFSbjE0ZE9iQmJkNTVvc0JNQ2haeHQxdzZKZjU0V0JNVGkycVNXRklxbUdFSk1WMXY1cTI1MEVEUk5zSnJSbHQ?oc=5",
-      "source": {
-        "domain": "www.fsc.go.kr",
-        "name": "금융위원회 보도자료",
-        "type": "public"
-      },
-      "published_at": "2021-10-26T07:00:00+00:00",
-      "collected_at": "2026-03-05T03:59:56.887978",
-      "category": "원자재",
-      "tags": [
-        "원자재",
-        "금융위"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "[보도자료] 「가계부채 관리 강화방안」발표<",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE5aSGZiUEFSbjE0ZE9iQmJkNTVvc0JNQ2haeHQxdz"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "bfa88faa2da7acb6",
-      "title": "보도자료 - 금융위원회",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLWMtQ2Zobm1lUEtOc09iZkNvSEg4MHVEZUdmdjBQc3JVVEtoM2l6WGp5ekQxY0huQXdLN0t0LUxJSUE1RVgwOTd3b3ZhRmVqWTlDQkJlNjJQdXRCMGlSaTM2TEJnb3lSeGpSZzhXaHg3TnVRdFpvUG45aER2SC1tNmJUZDVKN2M0TnRiZlBJbWpiYno1Nk9DeUNhSXBoR3FD?oc=5",
-      "source": {
-        "domain": "www.fsc.go.kr",
-        "name": "금융위원회 보도자료",
-        "type": "public"
-      },
-      "published_at": "2023-01-30T08:00:00+00:00",
-      "collected_at": "2026-03-05T03:59:56.888322",
-      "category": "원자재",
-      "tags": [
-        "원자재",
-        "금융위"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "보도자료 - 금융위원회",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQLWMtQ2Zobm1lUEtOc09iZkNvSEg4MHVEZUdmdj"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "85b4e724c27326e1",
-      "title": "[보도자료] 부동산 PF 상황 점검회의 개최 - 금융위원회",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE80V0FkWEhET2pmZ2tCaW5pTWtWOVFybEYzMmFKRDNJeHlSb3ItWHNzWTFXcERiWTNkSlhPRHlqTTM0cTdvU0g0R0VTWGY?oc=5",
-      "source": {
-        "domain": "www.fsc.go.kr",
-        "name": "금융위원회 보도자료",
-        "type": "public"
-      },
-      "published_at": "2025-07-01T07:00:00+00:00",
-      "collected_at": "2026-03-05T03:59:56.888412",
-      "category": "원자재",
-      "tags": [
-        "원자재",
-        "금융위"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "[보도자료] 부동산 PF 상황 점검회의 개최",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE80V0FkWEhET2pmZ2tCaW5pTWtWOVFybEYzMmFKRD"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "101e71e2a00a6e1e",
-      "title": "국제기구명 : - 국제금융기구 정보시스템",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95UHlWQWREM3ZxeUlCQklHRTB4bWkzX0FWc0ZWWkNfZWoyTVl1ZDV4TWhGdXRfbTJuMGwyN3M3QUZSZjFVQ1Z1TUNPYlpfSmxSVWp2dld5eGtXY1k?oc=5",
-      "source": {
-        "domain": "www.moef.go.kr",
-        "name": "기획재정부 보도자료",
-        "type": "public"
-      },
-      "published_at": "2018-08-09T10:42:59+00:00",
-      "collected_at": "2026-03-05T03:59:57.697991",
-      "category": "원자재",
-      "tags": [
-        "원자재"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "국제기구",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE95UHlWQWREM3ZxeUlCQklHRTB4bWkzX0FWc0ZWWk"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "28a7ffc39cb67c04",
-      "title": "Ministry of Economy and Finance Korea Treasury Bond - 국채시장",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBNN1JQOHp6ZEVuRjFqamZ4R2tPaUhZWnhka2VmYklOdDFEbmtGTjFQNWtOZ2FUZmdlWm83bjdxM1NTV0p6MEE0aGNn?oc=5",
-      "source": {
-        "domain": "www.moef.go.kr",
-        "name": "기획재정부 보도자료",
-        "type": "public"
-      },
-      "published_at": "2018-12-14T03:53:54+00:00",
-      "collected_at": "2026-03-05T03:59:57.698159",
-      "category": "기타",
-      "tags": [
-        "기타"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "Ministry of Economy and Fin",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTFBNN1JQOHp6ZEVuRjFqamZ4R2tPaUhZWnhka2VmYk"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "a749e93ae92bbf36",
-      "title": "국제금융기구 - 국제금융기구 정보시스템",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBDa052dzZDLVN2dVViQWhUQXY5RGNDOHg1al9OUlpJS3M4NVFwdEhlRTdSTEFpVjlHdlVZ?oc=5",
-      "source": {
-        "domain": "www.moef.go.kr",
-        "name": "기획재정부 보도자료",
-        "type": "public"
-      },
-      "published_at": "2018-08-09T10:42:03+00:00",
-      "collected_at": "2026-03-05T03:59:57.698297",
-      "category": "원자재",
-      "tags": [
-        "원자재"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "국제금융기구 국제금",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMiO0FVX3lxTFBDa052dzZDLVN2dVViQWhUQXY5RGNDOHg1al9OUl"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "7172503e1ba4b699",
-      "title": "Korea Treasury Bonds, 2024 - 국채시장",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2TjlvVjlVcU53TkpNSmV3c0hyV2lVcEVzVkRnbDFpTE9DUVY1eEFDUVY3VXEtS24tb0RGck11N2YyLWVyOW53bTEzaHRtb2FrUFNlTQ?oc=5",
-      "source": {
-        "domain": "www.moef.go.kr",
-        "name": "기획재정부 보도자료",
-        "type": "public"
-      },
-      "published_at": "2018-12-14T03:57:38+00:00",
-      "collected_at": "2026-03-05T03:59:57.698457",
-      "category": "기타",
-      "tags": [
-        "기타"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "Korea Treasur",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2TjlvVjlVcU53TkpNSmV3c0hyV2lVcEVzVkRnbD"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "4c98a8efc9fca3f7",
-      "title": "파운드리 - 재정경제부",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MN1ZSSTgyMDBLX0tqYkRHVGp3TXpnQVpPbDlCQmFqWUpVOVQ4Z012OHNVWFl3RENnTUx3ZkRVVnM4YXdFcUgzWHZjSjVRck9mYmhFVkdTV0tzYVNxbFBPSHVISUo?oc=5",
-      "source": {
-        "domain": "www.moef.go.kr",
-        "name": "기획재정부 보도자료",
-        "type": "public"
-      },
-      "published_at": "2021-03-16T15:17:31+00:00",
-      "collected_at": "2026-03-05T03:59:57.698555",
-      "category": "기타",
-      "tags": [
-        "기타"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "파운드리 - 재정경제부",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MN1ZSSTgyMDBLX0tqYkRHVGp3TXpnQVpPbDlCQm"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "fe0d7bb1f515f62d",
-      "title": "인포그래픽 - 재정경제부",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZG1BTU9PQnFfMm1xY3lleXk0Ni1TSVZmSlZFV2JZUF8xenMwaXcxUzl5ZUZVM01LYS1pa3FYbkJFN2V2d0o1cklBWlI5X0NEUXdkM2RCbjdvcDFCMWxZSFpHa2JWQkpPaEc3Yk9GblVsRm5xcFJUTVdlbUg0YUU0RDU0Tl9OVUpfMXREZHdFNDFVaXdua2ItY3gydUxhYjNpaEJCWVRR?oc=5",
-      "source": {
-        "domain": "www.moef.go.kr",
-        "name": "기획재정부 보도자료",
-        "type": "public"
-      },
-      "published_at": "2025-03-19T07:00:00+00:00",
-      "collected_at": "2026-03-05T03:59:57.698621",
-      "category": "기타",
-      "tags": [
-        "기타"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "인포그래픽 - 재정경제부",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPZG1BTU9PQnFfMm1xY3lleXk0Ni1TSVZmSlZFV2"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "9ce537382ff421e4",
-      "title": "2025년 4분기 및 연간(지출) 가계동향조사 결과 보도자료",
-      "url": "https://mods.go.kr/board.es?mid=a10301040400&act=view&bid=214&list_no=443727",
-      "source": {
-        "domain": "kostat.go.kr",
-        "name": "통계청 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-02-25T16:52:00",
-      "collected_at": "2026-03-05T04:00:00.972392",
-      "category": "원자재",
-      "tags": [
-        "원자재"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "□ 2025년 4/4분기 가구당 월평균 소득은 542만 2천원으로 전년동분기대비 4.0% 증가(실질소득 1.6% 증가)\n\n□ 2025년 4/4분기 가구당 월평균 소비지출은 300만 8천원으로 전년동분기대비 3.6% 증가(실질소비지출 1.2% 증가)\n\n□ 2025년...",
-        "source": "□ 2025년 4/4분기 가구당 월평균 소득은 542만 2천원으로 전년동분기대비 4.0% 증가(실질소득 1.6% 증가)\n\n□ 2025년 4/4분기 가구당 월평균 소비지출은 300만"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "ca3138e9bdb28932",
-      "title": "2025년 북한벼재배면적조사 결과 보도자료",
-      "url": "https://mods.go.kr/board.es?mid=a10301150000&act=view&bid=246&list_no=443700",
-      "source": {
-        "domain": "kostat.go.kr",
-        "name": "통계청 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-02-25T10:05:00",
-      "collected_at": "2026-03-05T04:00:00.972738",
-      "category": "원자재",
-      "tags": [
-        "원자재"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "2025년 북한벼재배면적조사 결과 보도자료입니다.\n\n○ 2025년 북한 벼 재배면적은 542,913ha로 전년 526,670ha보다 16,243ha(3.1%) 증가\n○ 2025년 북한 벼 재배면적은 남한 벼 재배면적(697,685ha)의 77.8% 수준\n○ 시도별 벼...",
-        "source": "2025년 북한벼재배면적조사 결과 보도자료입니다.\n\n○ 2025년 북한 벼 재배면적은 542,913ha로 전년 526,670ha보다 16,243ha(3.1%) 증가\n○ 2025년 "
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "53662b64c3bdb0da",
-      "title": "&#x27;25년 3/4분기 『생활인구』 산정결과",
-      "url": "https://mods.go.kr/board.es?mid=a10301150000&act=view&bid=246&list_no=443670",
-      "source": {
-        "domain": "kostat.go.kr",
-        "name": "통계청 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-02-24T09:06:00",
-      "collected_at": "2026-03-05T04:00:00.972874",
-      "category": "원자재",
-      "tags": [
-        "원자재"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "'25년 3/4분기 『생활인구』 산정 결과입니다.\n\n○ (내용요약)\n     ▷ (현황) 89개 인구감소지역 전체의 생활인구는 '25.7월 2,721만명, 8월 3,217만명, 9월 2,514만명  \n         → 전년 동월대비 7월은 35만명 증가, 8월과...",
-        "source": "'25년 3/4분기 『생활인구』 산정 결과입니다.\n\n○ (내용요약)\n     ▷ (현황) 89개 인구감소지역 전체의 생활인구는 '25.7월 2,721만명, 8월 3,217만명, 9"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "014b6a48e94642b7",
-      "title": "2026년 1월 20일 및 28일 이사회 할인율 회의 회의록",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260224a.htm",
-      "source": {
-        "domain": "www.federalreserve.gov",
-        "name": "미국 연방준비제도 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-02-24T19:00:00+00:00",
-      "collected_at": "2026-03-05T04:00:04.340905",
-      "category": "기타",
-      "tags": [
-        "기타"
-      ],
-      "country": "US",
-      "summary": {
-        "auto": "2026년 1월 20일 및 28일 이사회 할인율 회의 회의록",
-        "source": "2026년 1월 20일 및 28일 이사회 할인율 회의 회의록"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "d40e2a887de7bcf3",
-      "title": "Minutes of the Federal Open Market Committee, January 27–28, 2026",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260218a.htm",
-      "source": {
-        "domain": "www.federalreserve.gov",
-        "name": "미국 연방준비제도 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-02-18T19:00:00+00:00",
-      "collected_at": "2026-03-05T04:00:04.341709",
+      "published_at": "2014-02-10T08:00:00+00:00",
+      "collected_at": "2026-03-05T04:46:34.592125",
       "category": "기타",
       "tags": [
         "기타",
-        "연준"
+        "한국은행"
       ],
-      "country": "US",
+      "country": "KR",
       "summary": {
-        "auto": "Minutes of the Federal Open Market Committee, January 27–28, 2026",
-        "source": "Minutes of the Federal Open Market Committee, January 27–28, 2026"
+        "auto": "최근 소비부진과 가계의 시간선호 변화 | BOK 경제리뷰(상세) | 발간중지 간행물 | 간행물 | 뉴스/자료 - bok.or.kr",
+        "source": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPOG5tc1hXNHNucE8zc2llU1gzYmt2cUZNa2tBUW"
       },
       "relevance_score": 50,
       "is_trending": false
     },
     {
-      "id": "b2c13f7269bfb7ab",
-      "title": "Philip R. Lane: 파이낸셜 타임즈와의 인터뷰",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260303~768fa10188.en.html",
+      "id": "0be8fd496f5eb58c",
+      "title": "[제2025-2호] AI와 한국경제 - bok.or.kr",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPaDdEY3djXzl0TlZFZDhPT0Ewcmc5X05fTUVjcktMdlRJVkEzblRIU25EUWMzVW42bXRTZDVOMXZIWDFLNHFVeGpVRlc5QzJnZFFyLUl5S3pLem1nSVJsVGREVngxRTUwSElpdklCR1VBOE91RHpSMlhUSzRwcmFMaTBSeWZRb3BDczlJWGxPbnAtUWxUcC0xVjVIZ1o0RmtPVDQtZngzVzRuZ201M3MtcUxha1A5akVWZERtZnV5RHJpVzBYRXhtWUJXbkZENU1nM0FFbk5wck55OFJLckxQRHlyOHdScXYxb01abDJ5WXBXOGJTS1A1Z3lnY3NsRE9GR0UyQ2x0WE03QV8ta0lyZXJUQkFEWUxwV2Nlc1dHaHJ0UGFrVEdjSllMN2c?oc=5",
       "source": {
-        "domain": "www.ecb.europa.eu",
-        "name": "유럽중앙은행 보도자료",
+        "domain": "www.bok.or.kr",
+        "name": "한국은행 보도자료",
         "type": "public"
       },
-      "published_at": "2026-03-03T06:00:00+01:00",
-      "collected_at": "2026-03-05T04:00:10.741901",
+      "published_at": "2025-02-10T08:00:00+00:00",
+      "collected_at": "2026-03-05T04:46:34.592199",
+      "category": "기타",
+      "tags": [
+        "기타",
+        "한국은행"
+      ],
+      "country": "KR",
+      "summary": {
+        "auto": "[제2025-2호] AI와 한국경제 - bok.or.kr",
+        "source": "<a href=\"https://news.google.com/rss/articles/CBMirAJBVV95cUxPaDdEY3djXzl0TlZFZDhPT0Ewcmc5X05fTUVjck"
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    },
+    {
+      "id": "78897ab8ed2e4788",
+      "title": "보도자료 - 금융위원회",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ObllCcmlBdzgyUFlhenJiNWUwaFY2VnNKZVlfa3VBVEtTeUVhZXJmOGs1RzdqUmhmVzJicm56UFFzYXc3dXg2eGl3QWU?oc=5",
+      "source": {
+        "domain": "www.fsc.go.kr",
+        "name": "금융위원회 보도자료",
+        "type": "public"
+      },
+      "published_at": "2025-11-06T08:00:00+00:00",
+      "collected_at": "2026-03-05T04:46:35.248122",
+      "category": "원자재",
+      "tags": [
+        "원자재",
+        "금융위"
+      ],
+      "country": "KR",
+      "summary": {
+        "auto": "보도자료",
+        "source": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ObllCcmlBdzgyUFlhenJiNWUwaFY2VnNKZVlfa3"
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    },
+    {
+      "id": "499207b55b665047",
+      "title": "국고채시장 - 국채시장",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1aRk1VV09TT1VCeGRGRXJ1ZEFGaG0tbGx2ckhjdHgyc0Y3c2dDQlMyemxNU0lTSTdtVlFZQ1ZjLUJYd0F4V1d6Wg?oc=5",
+      "source": {
+        "domain": "www.moef.go.kr",
+        "name": "기획재정부 보도자료",
+        "type": "public"
+      },
+      "published_at": "2018-12-14T03:49:26+00:00",
+      "collected_at": "2026-03-05T04:46:36.045508",
       "category": "기타",
       "tags": [
         "기타"
       ],
-      "country": "EU",
+      "country": "KR",
       "summary": {
-        "auto": "Philip R. Lane: 파이낸셜 타임즈와의 인터뷰",
-        "source": ""
+        "auto": "국고채시장",
+        "source": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1aRk1VV09TT1VCeGRGRXJ1ZEFGaG0tbGx2ckhjdH"
       },
       "relevance_score": 50,
       "is_trending": false
     },
     {
-      "id": "7af38db18cf863b5",
-      "title": "ECB 이사회의 결정(이자율 설정 결정에 추가)",
-      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260227~a3ad2bb150.en.html",
+      "id": "d4183cd0003e978c",
+      "title": "국채시장 - 국채시장",
+      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE10M2x2UW9PazUzcGhSREVtYlJlWmFrcjNPOFphVk9kRGFUWXZpcVhGV3BJUW11VXRFZ0E?oc=5",
       "source": {
-        "domain": "www.ecb.europa.eu",
-        "name": "유럽중앙은행 보도자료",
+        "domain": "www.moef.go.kr",
+        "name": "기획재정부 보도자료",
         "type": "public"
       },
-      "published_at": "2026-02-27T15:00:00+01:00",
-      "collected_at": "2026-03-05T04:00:10.741952",
+      "published_at": "2018-08-13T01:13:38+00:00",
+      "collected_at": "2026-03-05T04:46:36.045722",
       "category": "기타",
       "tags": [
         "기타"
       ],
-      "country": "EU",
+      "country": "KR",
       "summary": {
-        "auto": "ECB 이사회의 결정(이자율 설정 결정에 추가)",
-        "source": ""
+        "auto": "국채시장 국채시장</",
+        "source": "<a href=\"https://news.google.com/rss/articles/CBMiOkFVX3lxTE10M2x2UW9PazUzcGhSREVtYlJlWmFrcjNPOFphVk"
       },
       "relevance_score": 50,
       "is_trending": false
     },
     {
-      "id": "6851d1cf8e104944",
-      "title": "ECB Consumer Expectations Survey results – January 2026",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260227_1~e721468c3a.en.html",
+      "id": "4f9fe69d71235cf9",
+      "title": "전용 웹페이지(http://whatsnew.moef.go.kr) - 재정경제부",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE42cXZ1aVlYQlJBQV8za2xDWlp6cGRyUkdNb2ZvN1d0WTRNSENMNF83Q2psaThUWlZaU0o3eFJTSVY?oc=5",
       "source": {
-        "domain": "www.ecb.europa.eu",
-        "name": "유럽중앙은행 보도자료",
+        "domain": "www.moef.go.kr",
+        "name": "기획재정부 보도자료",
         "type": "public"
       },
-      "published_at": "2026-02-27T10:00:00+01:00",
-      "collected_at": "2026-03-05T04:00:10.741981",
+      "published_at": "2018-08-07T21:13:03+00:00",
+      "collected_at": "2026-03-05T04:46:36.046002",
       "category": "기타",
       "tags": [
         "기타"
       ],
-      "country": "EU",
+      "country": "KR",
       "summary": {
-        "auto": "ECB Consumer Expectations Survey results – January 2026",
-        "source": ""
+        "auto": "전용 웹페이지(http://whatsnew.moef.go.kr) &",
+        "source": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE42cXZ1aVlYQlJBQV8za2xDWlp6cGRyUkdNb2ZvN1"
       },
       "relevance_score": 50,
       "is_trending": false
     },
     {
-      "id": "4f33c93a2df90a95",
-      "title": "위조 유로 지폐의 수는 2025년에도 낮은 수준을 유지합니다",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260227~66abdc6895.en.html",
+      "id": "91348d238316fb76",
+      "title": "초혁신경제 기후·에너지·미래대응 분야 3개 프로젝트, 6개 과제 추진계획 발표 - 재정경제부",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRTFCQ0ctUFN5Ql83cTNHdGNUa1NHNDlrWG1Bc2NPN0VHUTF2YmJGWkw2TFUxMUJ1MF9STXhMYXF1R1UzOVdaWEFwVC1UTUpwXzduZzlJRjFRVjRETlZFVWl3dW13aDFJamVDbV84OEVBR19QTzJWNUNPUkRiOE51UElmWGJwWnhvbEhNeVFPNGNNVVhmOFhmYmotblV1MXY2a1hFVDR1YnBGQTYxdGI1WG1wemRDazJP?oc=5",
       "source": {
-        "domain": "www.ecb.europa.eu",
-        "name": "유럽중앙은행 보도자료",
+        "domain": "www.moef.go.kr",
+        "name": "기획재정부 보도자료",
         "type": "public"
       },
-      "published_at": "2026-02-27T10:00:00+01:00",
-      "collected_at": "2026-03-05T04:00:10.742006",
+      "published_at": "2025-11-26T08:00:00+00:00",
+      "collected_at": "2026-03-05T04:46:36.046158",
+      "category": "기타",
+      "tags": [
+        "기타"
+      ],
+      "country": "KR",
+      "summary": {
+        "auto": "초혁신경제 기후·에너지·미래대응 분야 3개 프로젝트, 6개 과제 추진계획 발표 - 재정경제부",
+        "source": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRTFCQ0ctUFN5Ql83cTNHdGNUa1NHNDlrWG1Bc2"
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    },
+    {
+      "id": "15ab0bf6faf4a25e",
+      "title": "재정경제부 경제디지털도서관 - 재정경제부",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9WNzJfel81VFlILVVITDlEOTl6eEFTT0ZfTzB1WWY4dWRLcVUyNHBzaUtqazdWTU15UUs4?oc=5",
+      "source": {
+        "domain": "www.moef.go.kr",
+        "name": "기획재정부 보도자료",
+        "type": "public"
+      },
+      "published_at": "2022-04-27T11:39:52+00:00",
+      "collected_at": "2026-03-05T04:46:36.046237",
+      "category": "기타",
+      "tags": [
+        "기타"
+      ],
+      "country": "KR",
+      "summary": {
+        "auto": "재정경제부 경제디지털도서관",
+        "source": "<a href=\"https://news.google.com/rss/articles/CBMiO0FVX3lxTE9WNzJfel81VFlILVVITDlEOTl6eEFTT0ZfTzB1WW"
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    },
+    {
+      "id": "11aad71ac24c396b",
+      "title": "2025년 경지면적조사 결과",
+      "url": "https://mods.go.kr/board.es?mid=a10301080800&act=view&bid=229&list_no=443769",
+      "source": {
+        "domain": "kostat.go.kr",
+        "name": "통계청 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-02-27T13:20:00",
+      "collected_at": "2026-03-05T04:46:38.890774",
       "category": "원자재",
       "tags": [
         "원자재"
       ],
-      "country": "EU",
+      "country": "KR",
       "summary": {
-        "auto": "위조 유로 지폐의 수는 2025년에도 낮은 수준을 유지합니다",
-        "source": ""
+        "auto": "○  2025년 전국 경지면적은 1,500천ha로 전년 대비 0.3%(5천ha)  감소\n○  시도별 경지면적은 전남 273천ha(18.2%), 경북 235천ha(15.7%), 충남 212천ha(14.1%) 순",
+        "source": "○  2025년 전국 경지면적은 1,500천ha로 전년 대비 0.3%(5천ha)  감소\n○  시도별 경지면적은 전남 273천ha(18.2%), 경북 235천ha(15.7%), 충남"
       },
       "relevance_score": 50,
       "is_trending": false
     },
     {
-      "id": "42042de277bf0145",
-      "title": "2025년 ECB 재무제표",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260226~15dbe4febc.en.html",
+      "id": "e7c42e6f8b3a0c18",
+      "title": "2025년 어업생산동향조사 결과(잠정) 보도자료",
+      "url": "https://mods.go.kr/board.es?mid=a10301080400&act=view&bid=225&list_no=443764",
+      "source": {
+        "domain": "kostat.go.kr",
+        "name": "통계청 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-02-27T08:14:00",
+      "collected_at": "2026-03-05T04:46:38.890921",
+      "category": "원자재",
+      "tags": [
+        "원자재"
+      ],
+      "country": "KR",
+      "summary": {
+        "auto": "2025년 어업생산동향조사 결과(잠정) 보도자료 입니다.\n\nㅇ  '25년  어업생산량은  393만 5천톤으로   전년대비 31만 6천톤(8.7%)  증가\n\nㅇ  '25년 어업생산금액은  10조 2,366억원으로  전년대비 1,389억원(1.4%)  증가",
+        "source": "2025년 어업생산동향조사 결과(잠정) 보도자료 입니다.\n\nㅇ  '25년  어업생산량은  393만 5천톤으로   전년대비 31만 6천톤(8.7%)  증가\n\nㅇ  '25년 어업생산금"
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    },
+    {
+      "id": "df4f905c0e947e3b",
+      "title": "2025년 출생·사망통계(잠정)",
+      "url": "https://mods.go.kr/board.es?mid=a10301020300&act=view&bid=204&list_no=443686",
+      "source": {
+        "domain": "kostat.go.kr",
+        "name": "통계청 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-02-24T18:04:00",
+      "collected_at": "2026-03-05T04:46:38.891106",
+      "category": "원자재",
+      "tags": [
+        "원자재"
+      ],
+      "country": "KR",
+      "summary": {
+        "auto": "2025년 출생·사망통계(잠정) 결과(요약)\n\nㅇ 출생\n  - 출생아 수는 25만4천5백명으로 전년대비 1만6천1백명(6.8%) 증가\n  - 연령별 출산율은 20대 초반 이상 모든 연령층에서 증가 \n  - 전년대비 첫째아는 1만2천6백명(8.6%), 둘째아는...",
+        "source": "2025년 출생·사망통계(잠정) 결과(요약)\n\nㅇ 출생\n  - 출생아 수는 25만4천5백명으로 전년대비 1만6천1백명(6.8%) 증가\n  - 연령별 출산율은 20대 초반 이상 모든"
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    },
+    {
+      "id": "284c6a98b9c475f6",
+      "title": "2025년 12월 및 4분기 인구동향(출생, 사망, 혼인, 이혼)",
+      "url": "https://mods.go.kr/board.es?mid=a10301020300&act=view&bid=204&list_no=443681",
+      "source": {
+        "domain": "kostat.go.kr",
+        "name": "통계청 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-02-24T15:34:00",
+      "collected_at": "2026-03-05T04:46:38.891181",
+      "category": "기타",
+      "tags": [
+        "기타"
+      ],
+      "country": "KR",
+      "summary": {
+        "auto": "2025년 12월 인구동향(요약)\n\n - 출생아 수는 20,003명으로 전년동월대비 9.6% 증가\n - 사망자 수는 32,536명으로 전년동월대비 0.3% 감소\n - 혼인 건수는 25,527건으로 전년동월대비 13.4% 증가\n - 이혼 건수는 7,840건으로...",
+        "source": "2025년 12월 인구동향(요약)\n\n - 출생아 수는 20,003명으로 전년동월대비 9.6% 증가\n - 사망자 수는 32,536명으로 전년동월대비 0.3% 감소\n - 혼인 건수는 "
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    },
+    {
+      "id": "72d097c03ca1e570",
+      "title": "President Lagarde launches EuroSteps Walking Challenge at event promoting women’s financial literacy",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260302~9a52d535d2.en.html",
       "source": {
         "domain": "www.ecb.europa.eu",
         "name": "유럽중앙은행 보도자료",
         "type": "public"
       },
-      "published_at": "2026-02-26T12:00:00+01:00",
-      "collected_at": "2026-03-05T04:00:10.742028",
+      "published_at": "2026-03-02T16:30:00+01:00",
+      "collected_at": "2026-03-05T04:46:47.736437",
       "category": "기타",
       "tags": [
         "기타"
       ],
       "country": "EU",
       "summary": {
-        "auto": "2025년 ECB 재무제표",
+        "auto": "President Lagarde launches EuroSteps Walking Challenge at event promoting women’s financial literacy",
         "source": ""
       },
       "relevance_score": 50,
       "is_trending": false
     },
     {
-      "id": "f04b79cd41e9fab0",
-      "title": "ECB, 차기 부총재 임명에 대한 의견 채택",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260225~44db0697e5.en.html",
+      "id": "eec9df79f6ba17c5",
+      "title": "크리스틴 라가르드: 유럽의회 경제통화위원회 청문회",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260226~87d6c12449.en.html",
       "source": {
         "domain": "www.ecb.europa.eu",
         "name": "유럽중앙은행 보도자료",
         "type": "public"
       },
-      "published_at": "2026-02-25T17:00:00+01:00",
-      "collected_at": "2026-03-05T04:00:10.742051",
+      "published_at": "2026-02-26T09:30:00+01:00",
+      "collected_at": "2026-03-05T04:46:47.736493",
       "category": "기타",
       "tags": [
         "기타"
       ],
       "country": "EU",
       "summary": {
-        "auto": "ECB, 차기 부총재 임명에 대한 의견 채택",
-        "source": ""
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "7cd64a1a2c2a8b2f",
-      "title": "크리스틴 라가르드: 월스트리트 저널과의 인터뷰",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260221~a2c547fb40.en.html",
-      "source": {
-        "domain": "www.ecb.europa.eu",
-        "name": "유럽중앙은행 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-02-21T16:45:00+01:00",
-      "collected_at": "2026-03-05T04:00:10.742099",
-      "category": "기타",
-      "tags": [
-        "기타"
-      ],
-      "country": "EU",
-      "summary": {
-        "auto": "크리스틴 라가르드: 월스트리트 저널과의 인터뷰",
+        "auto": "크리스틴 라가르드: 유럽의회 경제통화위원회 청문회",
         "source": ""
       },
       "relevance_score": 50,

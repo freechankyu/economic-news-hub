@@ -1,0 +1,287 @@
+{
+  "generated_at": "2026-10-16T03:08:17.782762",
+  "version": "1.0",
+  "total_items": 12,
+  "items": [
+    {
+      "id": "0d84bbab316fddb2",
+      "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+      "source": {
+        "domain": "www.federalreserve.gov",
+        "name": "미국 연방준비제도 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-10-09T14:00:00+00:00",
+      "collected_at": "2026-10-16T03:08:11.447830",
+      "category": "정책",
+      "tags": [
+        "정책",
+        "연준"
+      ],
+      "country": "US",
+      "summary": {
+        "auto": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights...",
+        "source": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the p"
+      },
+      "relevance_score": 65,
+      "is_trending": false
+    },
+    {
+      "id": "f4c67ec69a48b6b6",
+      "title": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html",
+      "source": {
+        "domain": "www.ecb.europa.eu",
+        "name": "유럽중앙은행 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-10-05T10:00:00+02:00",
+      "collected_at": "2026-10-16T03:08:17.531396",
+      "category": "금리",
+      "tags": [
+        "금리"
+      ],
+      "country": "EU",
+      "summary": {
+        "auto": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
+        "source": ""
+      },
+      "relevance_score": 65,
+      "is_trending": false
+    },
+    {
+      "id": "2837bd77bb1bb249",
+      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261002~54c6b5672b.en.html",
+      "source": {
+        "domain": "www.ecb.europa.eu",
+        "name": "유럽중앙은행 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-10-02T15:00:00+02:00",
+      "collected_at": "2026-10-16T03:08:17.531417",
+      "category": "금리",
+      "tags": [
+        "금리"
+      ],
+      "country": "EU",
+      "summary": {
+        "auto": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+        "source": ""
+      },
+      "relevance_score": 65,
+      "is_trending": false
+    },
+    {
+      "id": "20cbc4d1d68f05ba",
+      "title": "환율과 외환시장에 대한 이해 - bok.or.kr",
+      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNbWFIbHhzMks5b19xU2ZJaXFqd3F0dG92bExUYmYxRjBOeHB2TjFVX05IeGczZE80VDZWbVgzRVlsTXlOd3dYdzByQUNEeVo1U29Qa1RPMzlobVEwSy15MC1ZMVY4VUhJMXZCV1Q4Q25feW5wQ1BRNUNGcExXNkRJZTJHb3RaMlh3dnRra1BSaGRhWjdUMVpHT1AzYThaTDBCX29YVlpjbHhxZmkwVTk2RHg0dmxUbjB3VFB2b3FJRk5WWTcySW5RdFF5VVZrWXRjTjFWbWhabjE0dUtrSzFLV09wc0EwdnBhSTg1aW54TWJJS2J6QWFuM0l6ZGZjOWxtczJIRlZlbWpRbjlPTHA2TDMxbi1zX0dIb096X0gxVzVicmtHbXYtT3dEOThaaU5nY3owc0tyTDgxM2x5OXROZnVBeFJLMy1HOENEMDFsaV9jR0VzYzlHY0R3a3BwYmFNdTZhZnFn?oc=5",
+      "source": {
+        "domain": "www.bok.or.kr",
+        "name": "한국은행 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-06-12T07:00:00+00:00",
+      "collected_at": "2026-10-16T03:07:58.575925",
+      "category": "환율",
+      "tags": [
+        "환율",
+        "한국은행"
+      ],
+      "country": "KR",
+      "summary": {
+        "auto": "환율과 외환시장에 대한 이해 - bok.or.kr",
+        "source": "<a href=\"https://news.google.com/rss/articles/CBMi5gJBVV95cUxNbWFIbHhzMks5b19xU2ZJaXFqd3F0dG92bExUYm"
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    },
+    {
+      "id": "d011a456d1fa946c",
+      "title": "개방 현황 - 공공데이터개방 - 정보공개 - 금융위원회",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBEZ0Z0NVdrZW5CeHRhd0RpY1ZaeGZEZ3BMN1dHMGVpU2NkNWsxRlllYmQtMFdZUExJNk5DZzNGOEh0bWZV?oc=5",
+      "source": {
+        "domain": "www.fsc.go.kr",
+        "name": "금융위원회 보도자료",
+        "type": "public"
+      },
+      "published_at": "2021-03-11T11:18:54+00:00",
+      "collected_at": "2026-10-16T03:07:59.456948",
+      "category": "원자재",
+      "tags": [
+        "원자재",
+        "금융위"
+      ],
+      "country": "KR",
+      "summary": {
+        "auto": "개방 현황 - 공공데이터개방 - 정보공개 &nb",
+        "source": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTFBEZ0Z0NVdrZW5CeHRhd0RpY1ZaeGZEZ3BMN1dHMG"
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    },
+    {
+      "id": "1d951fc589ea094f",
+      "title": "국가데이터처, 국제노동기구(ILO) 공조 제1차 국제노동이동통계 글로벌 워크숍 개최",
+      "url": "https://mods.go.kr/board.es?mid=a10301140000&act=view&bid=11825&list_no=447442",
+      "source": {
+        "domain": "kostat.go.kr",
+        "name": "통계청 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-10-12T11:14:00",
+      "collected_at": "2026-10-16T03:08:02.532429",
+      "category": "기타",
+      "tags": [
+        "기타"
+      ],
+      "country": "KR",
+      "summary": {
+        "auto": "국가데이터처(처장 안형준)는 국제노동기구(ILO)와 공동으로 9월 29일부터 9월 30일까지 호텔 나루 서울 엠갤러리에서 「제1차 국제노동이동통계 글로벌 워크숍*」을 개최한다.\n* ILO-MODS 1st Global Workshop on International...",
+        "source": "국가데이터처(처장 안형준)는 국제노동기구(ILO)와 공동으로 9월 29일부터 9월 30일까지 호텔 나루 서울 엠갤러리에서 「제1차 국제노동이동통계 글로벌 워크숍*」을 개최한다.\n*"
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    },
+    {
+      "id": "b441ff6c63c6936c",
+      "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
+      "source": {
+        "domain": "www.federalreserve.gov",
+        "name": "미국 연방준비제도 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-10-02T15:00:00+00:00",
+      "collected_at": "2026-10-16T03:08:11.448584",
+      "category": "기타",
+      "tags": [
+        "기타",
+        "연준"
+      ],
+      "country": "US",
+      "summary": {
+        "auto": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
+        "source": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc."
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    },
+    {
+      "id": "94f4c2579d3ff5b5",
+      "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
+      "source": {
+        "domain": "www.federalreserve.gov",
+        "name": "미국 연방준비제도 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-09-29T20:00:00+00:00",
+      "collected_at": "2026-10-16T03:08:11.448689",
+      "category": "기타",
+      "tags": [
+        "기타"
+      ],
+      "country": "US",
+      "summary": {
+        "auto": "Agencies publish resolution plan feedback letters for 15 banking organizations",
+        "source": "Agencies publish resolution plan feedback letters for 15 banking organizations"
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    },
+    {
+      "id": "9b6e93b48f207022",
+      "title": "Frank Elderson: Ensuring resilience in the face of uncertainty",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261014~e4ca33588e.en.html",
+      "source": {
+        "domain": "www.ecb.europa.eu",
+        "name": "유럽중앙은행 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-10-14T02:00:00+02:00",
+      "collected_at": "2026-10-16T03:08:17.531251",
+      "category": "기타",
+      "tags": [
+        "기타"
+      ],
+      "country": "EU",
+      "summary": {
+        "auto": "Frank Elderson: Ensuring resilience in the face of uncertainty",
+        "source": ""
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    },
+    {
+      "id": "a37490dc6bf90744",
+      "title": "Meeting of 9-10 September 2026",
+      "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261008~a10153d090.en.html",
+      "source": {
+        "domain": "www.ecb.europa.eu",
+        "name": "유럽중앙은행 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-10-08T13:30:00+02:00",
+      "collected_at": "2026-10-16T03:08:17.531315",
+      "category": "기타",
+      "tags": [
+        "기타"
+      ],
+      "country": "EU",
+      "summary": {
+        "auto": "Meeting of 9-10 September 2026",
+        "source": ""
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    },
+    {
+      "id": "28500ac6a43a82aa",
+      "title": "Frank Elderson: Effective supervision through timely remediation",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006_1~0df91e4e44.en.html",
+      "source": {
+        "domain": "www.ecb.europa.eu",
+        "name": "유럽중앙은행 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-10-06T15:00:00+02:00",
+      "collected_at": "2026-10-16T03:08:17.531350",
+      "category": "기타",
+      "tags": [
+        "기타"
+      ],
+      "country": "EU",
+      "summary": {
+        "auto": "Frank Elderson: Effective supervision through timely remediation",
+        "source": ""
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    },
+    {
+      "id": "83020bb1c63ef28c",
+      "title": "Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006~0da978f159.en.html",
+      "source": {
+        "domain": "www.ecb.europa.eu",
+        "name": "유럽중앙은행 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-10-06T15:00:00+02:00",
+      "collected_at": "2026-10-16T03:08:17.531374",
+      "category": "기타",
+      "tags": [
+        "기타"
+      ],
+      "country": "EU",
+      "summary": {
+        "auto": "Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks",
+        "source": ""
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    }
+  ]
+}

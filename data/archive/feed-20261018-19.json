@@ -1,0 +1,217 @@
+{
+  "generated_at": "2026-10-18T19:44:45.693811",
+  "version": "1.0",
+  "total_items": 9,
+  "items": [
+    {
+      "id": "7e8df4f884ec4160",
+      "title": "주요정책문답 - 금융위원회",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWDBGQWp4NUt4ODRZekk2aUxzSlBaUFBpWTFCSFpVdk5MZjB4MTJFQVpxNTlXRWZRMDRkTEN3eHBFbk05Zk05N0VKR0dZV0xjMlc4MkZYUGxwcV9mUm9ISWdDN1BHQjBrWVhkWE0yTHNORjhIYVVNUjNMeVRQcnJsZUFNUVd0WEZZcEU1S2ViV2FIUUVqcF9YRncyZ3IzZDdV?oc=5",
+      "source": {
+        "domain": "www.fsc.go.kr",
+        "name": "금융위원회 보도자료",
+        "type": "public"
+      },
+      "published_at": "2025-07-15T07:00:00+00:00",
+      "collected_at": "2026-10-18T19:44:26.314229",
+      "category": "정책",
+      "tags": [
+        "정책",
+        "금융위"
+      ],
+      "country": "KR",
+      "summary": {
+        "auto": "주요정책문답 - 금융위원회",
+        "source": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQWDBGQWp4NUt4ODRZekk2aUxzSlBaUFBpWTFCSF"
+      },
+      "relevance_score": 65,
+      "is_trending": false
+    },
+    {
+      "id": "f4c67ec69a48b6b6",
+      "title": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html",
+      "source": {
+        "domain": "www.ecb.europa.eu",
+        "name": "유럽중앙은행 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-10-05T10:00:00+02:00",
+      "collected_at": "2026-10-18T19:44:45.353176",
+      "category": "금리",
+      "tags": [
+        "금리"
+      ],
+      "country": "EU",
+      "summary": {
+        "auto": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
+        "source": ""
+      },
+      "relevance_score": 65,
+      "is_trending": false
+    },
+    {
+      "id": "3d5ec63a80eb1ff8",
+      "title": "2026 BOK-CEPR-OECD Conference 1일차 VOD | (상세) | 한국은행 홈페이지 - bok.or.kr",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQUVYSllMSzVKSV9aSzBZMU9aSXF6bVluMjFiTUx5LXJpUkVHZDhQcDNvNzdBdVk1cE4ycndBYnY1bDhCNFNPVEhSc1U3R1hTazYtME1IOEtsUnBqTFkyUXNvcUFSS1YxblNGbU9PYW1DYm1XcGcxVDhPRHcyQVZVcmJxZUI?oc=5",
+      "source": {
+        "domain": "www.bok.or.kr",
+        "name": "한국은행 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-10-17T04:08:55+00:00",
+      "collected_at": "2026-10-18T19:44:25.866644",
+      "category": "원자재",
+      "tags": [
+        "원자재",
+        "한국은행"
+      ],
+      "country": "KR",
+      "summary": {
+        "auto": "2026 BOK-CEPR-OECD Conference 1일차 VOD | (상세) | 한국은행 홈페이지 - bok.or.kr",
+        "source": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQQUVYSllMSzVKSV9aSzBZMU9aSXF6bVluMjFiTU"
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    },
+    {
+      "id": "3b24b67918487eb0",
+      "title": "알림마당 - 금융위원회",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanVFcGRCOC1vOHk0Y09BRUxDdW1hSm1VU1BidkdWMnBFNGEtWkprUEVuUU5qNGdyb2h5Z2x1V0h2emtWeHdacnRTem5US1J0RnVtVXlZYnh1V0dtOW1lbHlnSEU1SUU0UW5Xdml2ZkEtZmlPUHZaY2RQYVRlUGx4OUhNdW1KdFVUTzFjbTVOZnlpVC1VX2dmYllMUVdEUEU2?oc=5",
+      "source": {
+        "domain": "www.fsc.go.kr",
+        "name": "금융위원회 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-10-16T07:34:39+00:00",
+      "collected_at": "2026-10-18T19:44:26.314096",
+      "category": "원자재",
+      "tags": [
+        "원자재",
+        "금융위"
+      ],
+      "country": "KR",
+      "summary": {
+        "auto": "알림마당 - 금융위원회",
+        "source": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOanVFcGRCOC1vOHk0Y09BRUxDdW1hSm1VU1Bidk"
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    },
+    {
+      "id": "5366f0e2d819fa3b",
+      "title": "국채수익률 추이 - 국채시장",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zQUtnWEFTR29XM2dvNjBYM0dva2VYdG9oeUdxMmxVVVROb0wtVGJoZUZIbElDUDJ3dHFQZm8wN2szSm9Cc0hITDkxRHEzc2cxUWRBYzlCQQ?oc=5",
+      "source": {
+        "domain": "www.moef.go.kr",
+        "name": "기획재정부 보도자료",
+        "type": "public"
+      },
+      "published_at": "2018-12-14T03:51:34+00:00",
+      "collected_at": "2026-10-18T19:44:26.715329",
+      "category": "기타",
+      "tags": [
+        "기타"
+      ],
+      "country": "KR",
+      "summary": {
+        "auto": "국채수익률 추이<",
+        "source": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zQUtnWEFTR29XM2dvNjBYM0dva2VYdG9oeUdxMm"
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    },
+    {
+      "id": "9b6e93b48f207022",
+      "title": "Frank Elderson: Ensuring resilience in the face of uncertainty",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261014~e4ca33588e.en.html",
+      "source": {
+        "domain": "www.ecb.europa.eu",
+        "name": "유럽중앙은행 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-10-14T02:00:00+02:00",
+      "collected_at": "2026-10-18T19:44:45.353085",
+      "category": "기타",
+      "tags": [
+        "기타"
+      ],
+      "country": "EU",
+      "summary": {
+        "auto": "Frank Elderson: Ensuring resilience in the face of uncertainty",
+        "source": ""
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    },
+    {
+      "id": "a37490dc6bf90744",
+      "title": "Meeting of 9-10 September 2026",
+      "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261008~a10153d090.en.html",
+      "source": {
+        "domain": "www.ecb.europa.eu",
+        "name": "유럽중앙은행 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-10-08T13:30:00+02:00",
+      "collected_at": "2026-10-18T19:44:45.353129",
+      "category": "기타",
+      "tags": [
+        "기타"
+      ],
+      "country": "EU",
+      "summary": {
+        "auto": "Meeting of 9-10 September 2026",
+        "source": ""
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    },
+    {
+      "id": "28500ac6a43a82aa",
+      "title": "Frank Elderson: Effective supervision through timely remediation",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006_1~0df91e4e44.en.html",
+      "source": {
+        "domain": "www.ecb.europa.eu",
+        "name": "유럽중앙은행 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-10-06T15:00:00+02:00",
+      "collected_at": "2026-10-18T19:44:45.353146",
+      "category": "기타",
+      "tags": [
+        "기타"
+      ],
+      "country": "EU",
+      "summary": {
+        "auto": "Frank Elderson: Effective supervision through timely remediation",
+        "source": ""
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    },
+    {
+      "id": "83020bb1c63ef28c",
+      "title": "Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006~0da978f159.en.html",
+      "source": {
+        "domain": "www.ecb.europa.eu",
+        "name": "유럽중앙은행 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-10-06T15:00:00+02:00",
+      "collected_at": "2026-10-18T19:44:45.353159",
+      "category": "기타",
+      "tags": [
+        "기타"
+      ],
+      "country": "EU",
+      "summary": {
+        "auto": "Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks",
+        "source": ""
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    }
+  ]
+}

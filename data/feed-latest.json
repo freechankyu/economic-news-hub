@@ -1,172 +1,8 @@
 {
-  "generated_at": "2026-10-20T20:15:21.083879",
+  "generated_at": "2026-10-21T01:39:44.675092",
   "version": "1.0",
-  "total_items": 52,
+  "total_items": 9,
   "items": [
-    {
-      "id": "0de9b4c1021a7c35",
-      "title": "Frank Elderson: Interview with Die Presse",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261020~97e2e4bc38.en.html",
-      "source": {
-        "domain": "www.ecb.europa.eu",
-        "name": "유럽중앙은행 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-10-20T09:00:00+02:00",
-      "collected_at": "2026-10-20T20:15:20.290172",
-      "category": "기타",
-      "tags": [
-        "기타"
-      ],
-      "country": "EU",
-      "summary": {
-        "auto": "Frank Elderson: Interview with Die Presse",
-        "source": ""
-      },
-      "relevance_score": 70,
-      "is_trending": false
-    },
-    {
-      "id": "2416adb9670d1315",
-      "title": "금융위 소관법규 - 법령정보 - 정책마당 - 금융위원회",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9GNFdrLWJBOXRCQWJicTN2WWIwU092VUVGNWMzT0h5U0RGallja01jN2NQUmdsX2x5MkNHRlhGNVI4VU92?oc=5",
-      "source": {
-        "domain": "www.fsc.go.kr",
-        "name": "금융위원회 보도자료",
-        "type": "public"
-      },
-      "published_at": "2021-03-11T11:18:11+00:00",
-      "collected_at": "2026-10-20T20:15:02.905822",
-      "category": "정책",
-      "tags": [
-        "정책",
-        "금융위"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "금융위 소관법규 - 법령정보 - 정책마당 &nb",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE9GNFdrLWJBOXRCQWJicTN2WWIwU092VUVGNWMzT0"
-      },
-      "relevance_score": 65,
-      "is_trending": false
-    },
-    {
-      "id": "a0ee94ee10100b44",
-      "title": "2026년 하반기 지역별고용조사 실시",
-      "url": "https://mods.go.kr/board.es?mid=a10301030300&act=view&bid=211&list_no=447458",
-      "source": {
-        "domain": "kostat.go.kr",
-        "name": "통계청 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-10-14T09:22:00",
-      "collected_at": "2026-10-20T20:15:08.752064",
-      "category": "거시경제",
-      "tags": [
-        "거시경제"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "국가데이터처는 2026년 10월 20일(화)부터 11월 4일(수)까지 전국의 약 23만 2천가구를 대상으로 ｢2026년 하반기 지역별고용조사」 를 실시한다. \n   \n｢지역별고용조사」는 시·군·구의 고용률·실업률 등 지역 고용정책 수립의 기초가 되는 다양한 통계를...",
-        "source": "국가데이터처는 2026년 10월 20일(화)부터 11월 4일(수)까지 전국의 약 23만 2천가구를 대상으로 ｢2026년 하반기 지역별고용조사」 를 실시한다. \n   \n｢지역별고용조"
-      },
-      "relevance_score": 65,
-      "is_trending": false
-    },
-    {
-      "id": "254130bbba29a6f5",
-      "title": "2026년 9월 고용동향",
-      "url": "https://mods.go.kr/board.es?mid=a10301030200&act=view&bid=210&list_no=447479",
-      "source": {
-        "domain": "kostat.go.kr",
-        "name": "통계청 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-10-16T07:20:00",
-      "collected_at": "2026-10-20T20:15:08.752212",
-      "category": "거시경제",
-      "tags": [
-        "거시경제"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "[2026년 9월 고용동향]\n\n▣ 15~64세 고용률(OECD 비교기준)은 70.6%로 전년동월대비 0.2%p 상승\n\n▣ 실업률은 2.0%로 전년동월대비 0.1%p 하락\n\n   ○ 실업자는 600천명으로 전년동월대비 3만4천명(-5.4%) 감소\n\n   ○ 청년층...",
-        "source": "[2026년 9월 고용동향]\n\n▣ 15~64세 고용률(OECD 비교기준)은 70.6%로 전년동월대비 0.2%p 상승\n\n▣ 실업률은 2.0%로 전년동월대비 0.1%p 하락\n\n   ○"
-      },
-      "relevance_score": 65,
-      "is_trending": false
-    },
-    {
-      "id": "33bfbda96ad32f75",
-      "title": "제12회 국민 삶의 질 측정 포럼 보도자료",
-      "url": "https://mods.go.kr/board.es?mid=a10301150000&act=view&bid=246&list_no=447269",
-      "source": {
-        "domain": "kostat.go.kr",
-        "name": "통계청 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-09-30T13:17:00",
-      "collected_at": "2026-10-20T20:15:08.752719",
-      "category": "정책",
-      "tags": [
-        "정책"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "국가데이터처(처장 안형준)는 9월 30일(수) 서울 엘타워에서 『제12회 포용적이고 지속가능한 국민 삶의 질 측정 포럼』을 온라인과 오프라인으로 병행하여 개최한다. \n\n국민 삶의 질 측정 포럼은 ‘삶의 질’ 측정과 정책 활용을 모색하기 위해 정부부처, 학계,...",
-        "source": "국가데이터처(처장 안형준)는 9월 30일(수) 서울 엘타워에서 『제12회 포용적이고 지속가능한 국민 삶의 질 측정 포럼』을 온라인과 오프라인으로 병행하여 개최한다. \n\n국민 삶의 "
-      },
-      "relevance_score": 65,
-      "is_trending": false
-    },
-    {
-      "id": "0d84bbab316fddb2",
-      "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
-      "source": {
-        "domain": "www.federalreserve.gov",
-        "name": "미국 연방준비제도 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-10-09T14:00:00+00:00",
-      "collected_at": "2026-10-20T20:15:15.680284",
-      "category": "정책",
-      "tags": [
-        "정책",
-        "연준"
-      ],
-      "country": "US",
-      "summary": {
-        "auto": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights...",
-        "source": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the p"
-      },
-      "relevance_score": 65,
-      "is_trending": false
-    },
-    {
-      "id": "8f9bf8f9d80dc8af",
-      "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
-      "source": {
-        "domain": "www.federalreserve.gov",
-        "name": "미국 연방준비제도 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-10-02T20:00:00+00:00",
-      "collected_at": "2026-10-20T20:15:15.680709",
-      "category": "정책",
-      "tags": [
-        "정책",
-        "연준"
-      ],
-      "country": "US",
-      "summary": {
-        "auto": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-        "source": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal"
-      },
-      "relevance_score": 65,
-      "is_trending": false
-    },
     {
       "id": "66c5ca309edf5196",
       "title": "「생활시간조사로 본 청년의 혼인 및 자녀 유무별 시간사용 변화」 보도자료",
@@ -191,280 +27,16 @@
       "is_trending": false
     },
     {
-      "id": "85cf4a58ad3f2fd7",
-      "title": "[BOK 이슈노트] 자율주행시대 한국 택시서비스의 위기와 혁신방안 - bok.or.kr",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWHdnemdBR3YyLXRYd0stM0U5dkhqdGJHTmFXY2F2SHE0U2ZvSXhfblJpOVRqbGR1X2FVcGNtR25SSVdsYm5VMmFCYW1FY3VNQm5uY0dPTDBnTF91MnZ4bklGVFBFOGJTeVZFN2VTR3RrUjZQeTI2TmREazRZUG1DWVVqelo?oc=5",
-      "source": {
-        "domain": "www.bok.or.kr",
-        "name": "한국은행 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-10-19T03:36:53+00:00",
-      "collected_at": "2026-10-20T20:15:02.330378",
-      "category": "기타",
-      "tags": [
-        "기타",
-        "한국은행"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "[BOK 이슈노트] 자율주행시대 한국 택시서비스의 위기와 혁신방안 - bok.or.kr",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPWHdnemdBR3YyLXRYd0stM0U5dkhqdGJHTmFXY2"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "3d5ec63a80eb1ff8",
-      "title": "2026 BOK-CEPR-OECD Conference 1일차 VOD | (상세) | 한국은행 홈페이지 - bok.or.kr",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQUVYSllMSzVKSV9aSzBZMU9aSXF6bVluMjFiTUx5LXJpUkVHZDhQcDNvNzdBdVk1cE4ycndBYnY1bDhCNFNPVEhSc1U3R1hTazYtME1IOEtsUnBqTFkyUXNvcUFSS1YxblNGbU9PYW1DYm1XcGcxVDhPRHcyQVZVcmJxZUI?oc=5",
-      "source": {
-        "domain": "www.bok.or.kr",
-        "name": "한국은행 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-10-17T04:08:55+00:00",
-      "collected_at": "2026-10-20T20:15:02.330595",
-      "category": "원자재",
-      "tags": [
-        "원자재",
-        "한국은행"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "2026 BOK-CEPR-OECD Conference 1일차 VOD | (상세) | 한국은행 홈페이지 - bok.or.kr",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQQUVYSllMSzVKSV9aSzBZMU9aSXF6bVluMjFiTU"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "47c1aeba19086be1",
-      "title": "- bok.or.kr",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5zV3U1N2RVQU5KMGdhZTRCa0VwalFUSjRDeGhUYUlmMThUN1NZZEt6UldHQ2VjdzdoQW9obzZBUTltTHFvM0E?oc=5",
-      "source": {
-        "domain": "www.bok.or.kr",
-        "name": "한국은행 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-10-19T04:52:17+00:00",
-      "collected_at": "2026-10-20T20:15:02.330682",
-      "category": "기타",
-      "tags": [
-        "기타",
-        "한국은행"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "- bok.or.kr",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE5zV3U1N2RVQU5KMGdhZTRCa0VwalFUSjRDeGhUYU"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "cb25d7fb59e210f7",
-      "title": "한국은행 경제통계시스템 - 한국은행 경제통계시스템",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5BOTVzdVd6enk2dndud1JwX2Q0bHRCMmF4R1NsTVBJNi1nYThUalJleVR4RC12TjVmYjBN?oc=5",
-      "source": {
-        "domain": "www.bok.or.kr",
-        "name": "한국은행 보도자료",
-        "type": "public"
-      },
-      "published_at": "2012-05-01T18:27:25+00:00",
-      "collected_at": "2026-10-20T20:15:02.330856",
-      "category": "원자재",
-      "tags": [
-        "원자재",
-        "한국은행"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "한국은행 경제통계시스템",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMiO0FVX3lxTE5BOTVzdVd6enk2dndud1JwX2Q0bHRCMmF4R1NsTV"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "89761f8d0a7a8d80",
-      "title": "한국은행 - bok.or.kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtZ3F2U093Vktrd1k0NUl2M01oak5BVC1FR0tITHV1MVFTQXZLVlIwVFR5Yl9FM1NKcUNiRF92b2pRRkZuR0ZBZ1ZRS3RDakNCeXow?oc=5",
-      "source": {
-        "domain": "www.bok.or.kr",
-        "name": "한국은행 보도자료",
-        "type": "public"
-      },
-      "published_at": "2018-05-14T03:30:58+00:00",
-      "collected_at": "2026-10-20T20:15:02.331028",
-      "category": "원자재",
-      "tags": [
-        "원자재",
-        "한국은행"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "한국은행 &",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtZ3F2U093Vktrd1k0NUl2M01oak5BVC1FR0tITH"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "c341c19ce625addf",
-      "title": "한국은행 Open API 서비스 - 한국은행 경제통계시스템",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE54ZUF6LW5GZHBHQ0czRkkxQ1R3aGhWRGUzaWVKTHdCYXpoeVhvMHYyMlphb3YwdDNEWmZHNHItUFo?oc=5",
-      "source": {
-        "domain": "www.bok.or.kr",
-        "name": "한국은행 보도자료",
-        "type": "public"
-      },
-      "published_at": "2022-09-11T07:34:21+00:00",
-      "collected_at": "2026-10-20T20:15:02.331182",
-      "category": "원자재",
-      "tags": [
-        "원자재",
-        "한국은행"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "한국은행 Open API 서비스",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE54ZUF6LW5GZHBHQ0czRkkxQ1R3aGhWRGUzaWVKTH"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "af6d217da1ebb805",
-      "title": "[제2025-14호] 일본경제로부터 되새겨볼 교훈 - bok.or.kr",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRDVsWFY3YW1sZWJVVVhHV1g3eDBYZWk3bGhpRzhYZkpUUnA5SHI5T1MteHJIWk5LWWluYkx1M2N0SXdncGFjN052bnRnb2FaV3l2R0VSOGQ0ZFFHOWhQc1NmVTlmSWpJckRXMzRXRW9WMWItV0VqYWxtcTFLdEN5SDBaWmJ2amVVQzJfNUFRbmUwZkRDYmFhYlR1QVJJaHBCdEJwZUJWLWFTM3BRQmJBeHpndlBKTTA3VE42alNVODY3dzFUUzUxcXp1MzR2SnJnQTNQVlJRcXhBX3NFVE9XN0Y3eVB3RGU3WVBqS3MxTnNBalFhVW9Z?oc=5",
-      "source": {
-        "domain": "www.bok.or.kr",
-        "name": "한국은행 보도자료",
-        "type": "public"
-      },
-      "published_at": "2025-06-05T07:00:00+00:00",
-      "collected_at": "2026-10-20T20:15:02.331325",
-      "category": "기타",
-      "tags": [
-        "기타",
-        "한국은행"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "[제2025-14호] 일본경제로부터 되새겨볼 교훈 - bok.or.kr",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRDVsWFY3YW1sZWJVVVhHV1g3eDBYZWk3bGhpRz"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "8c3b1091b57784f3",
-      "title": "「2026 BOK-CEPR-OECD 컨퍼런스」 개최 - bok.or.kr",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUE2QW5hRDViWWhxRDZqTHZGTk5fUndpOUZLMlJRVmtrcDQwQWgwMjJVenRTUkdSSXA5a3R0Z2ZlNFF3Y0tRNUEtNTFtaTczTFBEdFJvcGhhWFAyX21FV3dnTW9fR0k1eVRQc0pNRmdEaC1HLXFfZTBIT1o2aV9peHIycXA?oc=5",
-      "source": {
-        "domain": "www.bok.or.kr",
-        "name": "한국은행 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-10-15T07:31:39+00:00",
-      "collected_at": "2026-10-20T20:15:02.331411",
-      "category": "기타",
-      "tags": [
-        "기타",
-        "한국은행"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "「2026 BOK-CEPR-OECD 컨퍼런스」 개최 - bok.or.kr",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUE2QW5hRDViWWhxRDZqTHZGTk5fUndpOUZLMl"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "a83b92f5960ae63b",
-      "title": "[보도자료] 2026년 BOK 지역경제 심포지엄 개최 - bok.or.kr",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ2Q3WS1XRFM5VjBuYjZkT3l2TzJpd0Vnd3o3Z1ZWbktldkhXWW50bWxKV3NuMlZWNUFJOEVvbXhRMTJhWGhHTnRZajluel9qdmhCV2hPbm5fd3dKMnBoUFdXTlllcUxtc01nemhqUnZfSkdBZDBhd1Z6VmpvVTBOSG5NclE?oc=5",
-      "source": {
-        "domain": "www.bok.or.kr",
-        "name": "한국은행 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-10-15T07:25:38+00:00",
-      "collected_at": "2026-10-20T20:15:02.331534",
-      "category": "기타",
-      "tags": [
-        "기타",
-        "한국은행"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "[보도자료] 2026년 BOK 지역경제 심포지엄 개최 - bok.or.kr",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ2Q3WS1XRFM5VjBuYjZkT3l2TzJpd0Vnd3o3Z1"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "6b68c33df53303fb",
-      "title": "2026년 하반기 BOK금요강좌(2회차) | 지역본부 경제교육(상세) | 본부소식 | 부산본부 | 지역본부 | 한국은행 홈페이지 - bok.or.kr",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOUZCRjJfaFJQWFpoaEhZV25kM240YmZjY2VEYkxCUS1mcExTaEN1QUQ2NHE3TzAtX2RkZGE2VDFmSEpaSFU4TTdqUkYtQTFJY1BwWTZHZk95SW1HMmVjaWpGYWlRcHBYU0lhdU5EemdKM0l5QjhFdnU4VG1jLVByWnVjWlpKN1B1alNRS3diQ1hPZ01Y?oc=5",
-      "source": {
-        "domain": "www.bok.or.kr",
-        "name": "한국은행 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-10-14T08:04:01+00:00",
-      "collected_at": "2026-10-20T20:15:02.331620",
-      "category": "원자재",
-      "tags": [
-        "원자재",
-        "한국은행"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "2026년 하반기 BOK금요강좌(2회차) | 지역본부 경제교육(상세) | 본부소식 | 부산본부 | 지역본부 | 한국은행 홈페이지 - bok.or.kr",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNOUZCRjJfaFJQWFpoaEhZV25kM240YmZjY2VEYk"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "dbe7585e083c380f",
-      "title": "금융위원회 - 금융위원회",
-      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WQXZkdU1rVS1MOG4tQjdiVE5oWFgwX2ktaWtrc1RKbXl4eDNYSUNteEV5NV84V3h6MXc?oc=5",
-      "source": {
-        "domain": "www.fsc.go.kr",
-        "name": "금융위원회 보도자료",
-        "type": "public"
-      },
-      "published_at": "2016-01-06T08:27:22+00:00",
-      "collected_at": "2026-10-20T20:15:02.905049",
-      "category": "원자재",
-      "tags": [
-        "원자재",
-        "금융위"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "금융위원회 금융위원회",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMiOkFVX3lxTE1WQXZkdU1rVS1MOG4tQjdiVE5oWFgwX2ktaWtrc1"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "ec2545ab0e9613b1",
+      "id": "3b24b67918487eb0",
       "title": "알림마당 - 금융위원회",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMl8zRjFvR29DT3VmdzVJaHNRem5QallwMkZVQWZjRWJOQXRBU3JFS1hVdUZJNzN3STQ3cXFpUHNkcjdJMEdmTENac0o1eFBaaW4tSnhuU25aTHVRS25GU0tsMjkxd3I4YzhLWUozUGhEaVVsaVdyYl9iNVZ2X1pzQjRQSG5yQkJvV0hmeDN3QnFZV0VFNUF2dy1iQjZfc0hj?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanVFcGRCOC1vOHk0Y09BRUxDdW1hSm1VU1BidkdWMnBFNGEtWkprUEVuUU5qNGdyb2h5Z2x1V0h2emtWeHdacnRTem5US1J0RnVtVXlZYnh1V0dtOW1lbHlnSEU1SUU0UW5Xdml2ZkEtZmlPUHZaY2RQYVRlUGx4OUhNdW1KdFVUTzFjbTVOZnlpVC1VX2dmYllMUVdEUEU2?oc=5",
       "source": {
         "domain": "www.fsc.go.kr",
         "name": "금융위원회 보도자료",
         "type": "public"
       },
-      "published_at": "2026-10-15T06:31:17+00:00",
-      "collected_at": "2026-10-20T20:15:02.905294",
+      "published_at": "2026-10-16T07:34:39+00:00",
+      "collected_at": "2026-10-21T01:39:27.526817",
       "category": "원자재",
       "tags": [
         "원자재",
@@ -473,46 +45,22 @@
       "country": "KR",
       "summary": {
         "auto": "알림마당 - 금융위원회",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPMl8zRjFvR29DT3VmdzVJaHNRem5QallwMkZVQW"
+        "source": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOanVFcGRCOC1vOHk0Y09BRUxDdW1hSm1VU1Bidk"
       },
       "relevance_score": 50,
       "is_trending": false
     },
     {
-      "id": "590281ee5d4cb0d7",
+      "id": "335f570b01dd5aaa",
       "title": "알림마당 - 금융위원회",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBHcWYzVC1qMWw2RE9QcHZud1pUWW5MZXd2dGJ6TTdSNGsxSkdyUkNBTkZWc1BXU1hnenoydjQ1Ti1TQ3l1OE1CQmZkOTA?oc=5",
-      "source": {
-        "domain": "www.fsc.go.kr",
-        "name": "금융위원회 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-10-13T00:41:45+00:00",
-      "collected_at": "2026-10-20T20:15:02.905380",
-      "category": "원자재",
-      "tags": [
-        "원자재",
-        "금융위"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "알림마당",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBHcWYzVC1qMWw2RE9QcHZud1pUWW5MZXd2dGJ6TT"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "b5c78f0988557afe",
-      "title": "알림마당 - 금융위원회",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE84XzVzcWJnbHpUbS1MdTBrSEZUNFRvVkJUY1o1M1U5a0xRaEl0ZUhPdThzNFkxU0pmSVk5a3ZZbU15d2ZrS21UZlpMV2U?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rVjBIVF80RkVTcjhuODJPR3dCbGNuRVNucjgwVko4elZZVWFmeDlqaFdoVEFfY0tlWjlPcXhieXpyMFZMUl82aFJPQmI?oc=5",
       "source": {
         "domain": "www.fsc.go.kr",
         "name": "금융위원회 보도자료",
         "type": "public"
       },
       "published_at": "2026-10-06T07:00:00+00:00",
-      "collected_at": "2026-10-20T20:15:02.905551",
+      "collected_at": "2026-10-21T01:39:27.527045",
       "category": "원자재",
       "tags": [
         "원자재",
@@ -521,22 +69,22 @@
       "country": "KR",
       "summary": {
         "auto": "알림마당",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE84XzVzcWJnbHpUbS1MdTBrSEZUNFRvVkJUY1o1M1"
+        "source": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rVjBIVF80RkVTcjhuODJPR3dCbGNuRVNucjgwVk"
       },
       "relevance_score": 50,
       "is_trending": false
     },
     {
-      "id": "322f8362157b6b44",
+      "id": "a938e3a5c242112e",
       "title": "알림마당 - 금융위원회",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtLVVZaVdJQVljWE5SVkdpX1VUYW02RHg3VVpyajEzWlJpX2kyQ1Z6NzNjZ2lSZmoySjBwaTZfaGdtdmNlempTNXMwajE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE54b1N1cElhNlRkVFhEUVhScWh5S3hJQTRPMFlMUnZ5Qmc2R3FQdVVKcDRXelN6eDB3RFVCVjVncUxJS04wbjZfQVhmWi0?oc=5",
       "source": {
         "domain": "www.fsc.go.kr",
         "name": "금융위원회 보도자료",
         "type": "public"
       },
-      "published_at": "2026-10-02T07:00:00+00:00",
-      "collected_at": "2026-10-20T20:15:02.905688",
+      "published_at": "2024-07-04T07:00:00+00:00",
+      "collected_at": "2026-10-21T01:39:27.527266",
       "category": "원자재",
       "tags": [
         "원자재",
@@ -545,683 +93,121 @@
       "country": "KR",
       "summary": {
         "auto": "알림마당",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtLVVZaVdJQVljWE5SVkdpX1VUYW02RHg3VVpyaj"
+        "source": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE54b1N1cElhNlRkVFhEUVhScWh5S3hJQTRPMFlMUn"
       },
       "relevance_score": 50,
       "is_trending": false
     },
     {
-      "id": "05beaecad8bbc6e8",
-      "title": "[보도자료] 「가계부채 관리 강화방안」발표 - 금융위원회",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5aSGZiUEFSbjE0ZE9iQmJkNTVvc0JNQ2haeHQxdzZKZjU0V0JNVGkycVNXRklxbUdFSk1WMXY1cTI1MEVEUk5zSnJSbHQ?oc=5",
-      "source": {
-        "domain": "www.fsc.go.kr",
-        "name": "금융위원회 보도자료",
-        "type": "public"
-      },
-      "published_at": "2021-10-26T07:00:00+00:00",
-      "collected_at": "2026-10-20T20:15:02.905946",
-      "category": "원자재",
-      "tags": [
-        "원자재",
-        "금융위"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "[보도자료] 「가계부채 관리 강화방안」발표<",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE5aSGZiUEFSbjE0ZE9iQmJkNTVvc0JNQ2haeHQxdz"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "d4183cd0003e978c",
-      "title": "국채시장 - 국채시장",
-      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE10M2x2UW9PazUzcGhSREVtYlJlWmFrcjNPOFphVk9kRGFUWXZpcVhGV3BJUW11VXRFZ0E?oc=5",
-      "source": {
-        "domain": "www.moef.go.kr",
-        "name": "기획재정부 보도자료",
-        "type": "public"
-      },
-      "published_at": "2018-08-13T01:13:38+00:00",
-      "collected_at": "2026-10-20T20:15:03.387602",
-      "category": "기타",
-      "tags": [
-        "기타"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "국채시장 국채시장</",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMiOkFVX3lxTE10M2x2UW9PazUzcGhSREVtYlJlWmFrcjNPOFphVk"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "1094df2b3ba29ecc",
-      "title": "Ministry of Economy and Finance Korea Treasury Bond - 국채시장",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE92X0VobzFtN01JRFBiZEdldXNhYzMyTklvMW10aDk1MU5VaHdHbWpoUGZxR1B1M1JyV3dDdWk2aExERG5nLWh1YjFn?oc=5",
-      "source": {
-        "domain": "www.moef.go.kr",
-        "name": "기획재정부 보도자료",
-        "type": "public"
-      },
-      "published_at": "2018-12-14T03:56:05+00:00",
-      "collected_at": "2026-10-20T20:15:03.387839",
-      "category": "기타",
-      "tags": [
-        "기타"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "Ministry of Economy and Fin",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE92X0VobzFtN01JRFBiZEdldXNhYzMyTklvMW10aD"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "8a0bca071c43653e",
-      "title": "기획재정부 공식 홈페이지 - 재정경제부 - 재정경제부",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKM3JlWkMzT3ppaVRDaXN3MndIYnNvWldDQU1TNHZCZU81bUhaQTVqdU1zOFhmcnZhNGxtbnRKR0lGbVlZRmFQcW5tdm12Zw?oc=5",
-      "source": {
-        "domain": "www.moef.go.kr",
-        "name": "기획재정부 보도자료",
-        "type": "public"
-      },
-      "published_at": "2021-05-22T01:49:39+00:00",
-      "collected_at": "2026-10-20T20:15:03.387956",
-      "category": "기타",
-      "tags": [
-        "기타",
-        "기재부"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "기획재정부 공식 홈페이지 - 재정경제부",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKM3JlWkMzT3ppaVRDaXN3MndIYnNvWldDQU1TNH"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "28a7ffc39cb67c04",
-      "title": "KTBs are Korea Government Securities issued by the Ministry of Economy and Finance. - 국채시장",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBNN1JQOHp6ZEVuRjFqamZ4R2tPaUhZWnhka2VmYklOdDFEbmtGTjFQNWtOZ2FUZmdlWm83bjdxM1NTV0p6MEE0aGNn?oc=5",
-      "source": {
-        "domain": "www.moef.go.kr",
-        "name": "기획재정부 보도자료",
-        "type": "public"
-      },
-      "published_at": "2018-12-14T03:53:54+00:00",
-      "collected_at": "2026-10-20T20:15:03.388075",
-      "category": "기타",
-      "tags": [
-        "기타"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "KTBs are Korea Government S",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTFBNN1JQOHp6ZEVuRjFqamZ4R2tPaUhZWnhka2VmYk"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "94b656caff95062c",
-      "title": "- 재정경제부",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qWVJCZnQ0aFhtRUF1YUo0V3dTM0xKV0Nhd2RLMjRqMFNXOHJIZTB5eXNxUTBEWUxBSnBwWnBvY2h6TTlMMU9KSTRCVjJxN3B2RFBycWJvZTd1Zw?oc=5",
-      "source": {
-        "domain": "www.moef.go.kr",
-        "name": "기획재정부 보도자료",
-        "type": "public"
-      },
-      "published_at": "2025-04-07T08:34:55+00:00",
-      "collected_at": "2026-10-20T20:15:03.388224",
-      "category": "기타",
-      "tags": [
-        "기타"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "&",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qWVJCZnQ0aFhtRUF1YUo0V3dTM0xKV0Nhd2RLMj"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "7172503e1ba4b699",
-      "title": "Korea Treasury Bonds, 2025 - 국채시장",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2TjlvVjlVcU53TkpNSmV3c0hyV2lVcEVzVkRnbDFpTE9DUVY1eEFDUVY3VXEtS24tb0RGck11N2YyLWVyOW53bTEzaHRtb2FrUFNlTQ?oc=5",
-      "source": {
-        "domain": "www.moef.go.kr",
-        "name": "기획재정부 보도자료",
-        "type": "public"
-      },
-      "published_at": "2018-12-14T03:57:38+00:00",
-      "collected_at": "2026-10-20T20:15:03.388348",
-      "category": "기타",
-      "tags": [
-        "기타"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "Korea Treasur",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2TjlvVjlVcU53TkpNSmV3c0hyV2lVcEVzVkRnbD"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "4eabc9963269f8f8",
-      "title": "Ministry of Economy and Finance Korea Treasury Bond - 국채시장",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TdjlqcFJoZEFFRTRUWEZDV3Y3cFdVbXUzMjFvbFZvZmw0c0dhQTZpUExmdktBd0x3OTVqazBfNlNVazlSRlkydzc0RnJKOGc?oc=5",
-      "source": {
-        "domain": "www.moef.go.kr",
-        "name": "기획재정부 보도자료",
-        "type": "public"
-      },
-      "published_at": "2018-12-14T03:55:39+00:00",
-      "collected_at": "2026-10-20T20:15:03.388477",
-      "category": "기타",
-      "tags": [
-        "기타"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "Ministry of Economy",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TdjlqcFJoZEFFRTRUWEZDV3Y3cFdVbXUzMjFvbF"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "d20f9c60d369cc65",
-      "title": "국고채시장 - 국채시장",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE85Tkt1ay1zcWR3VHR4ejhQc09CWFJPXzA5d1RtWWtsbjJoTF9IbWlZV2tGVzg0OXRhNUkwVm0waW4xbHUzU2lr?oc=5",
-      "source": {
-        "domain": "www.moef.go.kr",
-        "name": "기획재정부 보도자료",
-        "type": "public"
-      },
-      "published_at": "2018-12-14T03:49:17+00:00",
-      "collected_at": "2026-10-20T20:15:03.388594",
-      "category": "기타",
-      "tags": [
-        "기타"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "국고채시장",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE85Tkt1ay1zcWR3VHR4ejhQc09CWFJPXzA5d1RtWW"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "0ba2ba078df5a4b5",
-      "title": "재정경제부 인터넷포털 로그인은 모바일 공무원증 / 간편인증 으로 이용하실 수 있습니다. - 재정경제부 인터넷포털",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE90U3pyeDIzYnJIMFlUMjdGR281bllEOFg4WmktaVV2OHhrMU5YRFlVN04xYnNENWNkR1JsVnFxVQ?oc=5",
-      "source": {
-        "domain": "www.moef.go.kr",
-        "name": "기획재정부 보도자료",
-        "type": "public"
-      },
-      "published_at": "2018-08-07T15:38:05+00:00",
-      "collected_at": "2026-10-20T20:15:03.388727",
-      "category": "원자재",
-      "tags": [
-        "원자재"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "재정경제부 인터넷포털 로그인은 모바일 공무원증 / 간편인증 으로 이용하실",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMiP0FVX3lxTE90U3pyeDIzYnJIMFlUMjdGR281bllEOFg4WmktaV"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "c27d82c3387f4a36",
-      "title": "개인투자용 국채 - 국채시장",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAteHhvUnB5MWlIUGptaUZha0FqLXpsQkZaOThIYTZUNGpvSzBReGNVVXA2YjN0OU01cXZBQzN0cHl3czVOLWFWYlZBa2JiX0FJOTJmVEs2WEg?oc=5",
-      "source": {
-        "domain": "www.moef.go.kr",
-        "name": "기획재정부 보도자료",
-        "type": "public"
-      },
-      "published_at": "2024-05-23T18:18:48+00:00",
-      "collected_at": "2026-10-20T20:15:03.388826",
-      "category": "기타",
-      "tags": [
-        "기타"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "개인투자용 국채",
-        "source": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFAteHhvUnB5MWlIUGptaUZha0FqLXpsQkZaOThIYT"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "d184d4dd0c43c067",
-      "title": "2026년 쌀 예상생산량조사 결과",
-      "url": "https://mods.go.kr/board.es?mid=a10301080700&act=view&bid=228&list_no=447409",
-      "source": {
-        "domain": "kostat.go.kr",
-        "name": "통계청 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-10-07T14:26:00",
-      "collected_at": "2026-10-20T20:15:08.752298",
-      "category": "원자재",
-      "tags": [
-        "원자재"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "2026년 쌀 예상생산량조사 결과 보도자료입니다.\n\n ㅇ 주요내용\n  - 쌀 예상생산량은 351만 8천톤으로 전년의 353만 9천톤보다 2만 1천톤(△0.6%) 감소 전망",
-        "source": "2026년 쌀 예상생산량조사 결과 보도자료입니다.\n\n ㅇ 주요내용\n  - 쌀 예상생산량은 351만 8천톤으로 전년의 353만 9천톤보다 2만 1천톤(△0.6%) 감소 전망"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "d04fe9cfa53bcbfa",
-      "title": "2026년 9월 소비자물가동향",
-      "url": "https://mods.go.kr/board.es?mid=a10301040200&act=view&bid=213&list_no=447322",
-      "source": {
-        "domain": "kostat.go.kr",
-        "name": "통계청 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-10-02T07:06:00",
-      "collected_at": "2026-10-20T20:15:08.752373",
-      "category": "원자재",
-      "tags": [
-        "원자재",
-        "인플레이션"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "□ 9월 소비자물가지수는 전월대비 0.3%, 전년동월대비 2.9% 각각 상승\n  o 전월비는 서비스는 하락하였으나, 전기·가스·수도, 농축수산물, 공업제품이 상승하여 전체 0.3% 상승\n\n  o 전년동월비는 농축수산물은 하락하였으나, 서비스, 공업제품,...",
-        "source": "□ 9월 소비자물가지수는 전월대비 0.3%, 전년동월대비 2.9% 각각 상승\n  o 전월비는 서비스는 하락하였으나, 전기·가스·수도, 농축수산물, 공업제품이 상승하여 전체 0.3%"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "bee77a51e9e1a942",
-      "title": "2026년 8월 온라인쇼핑동향",
-      "url": "https://mods.go.kr/board.es?mid=a10301120300&act=view&bid=241&list_no=447300",
-      "source": {
-        "domain": "kostat.go.kr",
-        "name": "통계청 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-10-01T09:50:00",
-      "collected_at": "2026-10-20T20:15:08.752471",
-      "category": "원자재",
-      "tags": [
-        "원자재"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "□ 온라인쇼핑동향\n\n □ 2026년 8월 온라인쇼핑 거래액은 24조 2,118억원으로 전년동월대비 7.3% 증가했으며, 온라인쇼핑 중 모바일쇼핑 거래액은 18조 9,021억원으로 5.8% 증가\n\n  ○ 전월대비 온라인쇼핑 거래액은 3.6%, 모바일쇼핑 거래액은...",
-        "source": "□ 온라인쇼핑동향\n\n □ 2026년 8월 온라인쇼핑 거래액은 24조 2,118억원으로 전년동월대비 7.3% 증가했으며, 온라인쇼핑 중 모바일쇼핑 거래액은 18조 9,021억원으로 "
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "a02a12fbe2fe8e70",
-      "title": "2026 고령자 통계",
-      "url": "https://mods.go.kr/board.es?mid=a10301060500&act=view&bid=10820&list_no=447294",
-      "source": {
-        "domain": "kostat.go.kr",
-        "name": "통계청 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-09-30T17:00:00",
-      "collected_at": "2026-10-20T20:15:08.752563",
-      "category": "원자재",
-      "tags": [
-        "원자재"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "[특별기획] 지난 10년간 고령자 의식변화\n  ㅇ 부모 부양을 가족‧정부‧사회가 함께 책임져야 한다는 인식이 10년간 17.7%p 증가, 부부의 공평한 가사분담과 일․가정 균형을 중시하는 인식도 확대\n  ㅇ 자신의 건강을 긍정적으로 평가하는 고령자가 늘고, 규칙적인...",
-        "source": "[특별기획] 지난 10년간 고령자 의식변화\n  ㅇ 부모 부양을 가족‧정부‧사회가 함께 책임져야 한다는 인식이 10년간 17.7%p 증가, 부부의 공평한 가사분담과 일․가정 균형을 "
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "0e43c9e35c134a8b",
-      "title": "국가데이터처, 출범 1주년 시민 소통 행사 개최",
-      "url": "https://mods.go.kr/board.es?mid=a10301150000&act=view&bid=246&list_no=447278",
-      "source": {
-        "domain": "kostat.go.kr",
-        "name": "통계청 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-09-30T14:55:00",
-      "collected_at": "2026-10-20T20:15:08.752639",
-      "category": "기타",
-      "tags": [
-        "기타"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "국가데이터처(처장 안형준)는 출범 1주년을 맞아 오는 9월 30일(수) 오전 11시부터 서울역 KTX 역사 2층(3번 출구 앞 상품 판매구역)에서 시민과 함께하는 출범 1주년 기념 소통 행사를 진행한다.\n\n 이번 행사는 지난해 10월 1일 출범한 국가데이터처의 지난...",
-        "source": "국가데이터처(처장 안형준)는 출범 1주년을 맞아 오는 9월 30일(수) 오전 11시부터 서울역 KTX 역사 2층(3번 출구 앞 상품 판매구역)에서 시민과 함께하는 출범 1주년 기념"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "11e512818b18cadf",
-      "title": "2026년 8월 산업활동동향",
-      "url": "https://mods.go.kr/board.es?mid=a10301050100&act=view&bid=216&list_no=447256",
-      "source": {
-        "domain": "kostat.go.kr",
-        "name": "통계청 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-09-30T08:01:00",
-      "collected_at": "2026-10-20T20:15:08.752794",
-      "category": "원자재",
-      "tags": [
-        "원자재"
-      ],
-      "country": "KR",
-      "summary": {
-        "auto": "□ (생산) 전산업 생산은 서비스업(0.5%)*에서 생산이 늘었으나, 광공업(-4.8%)**에서 생산이 줄어 전월대비 1.3% 감소 \n\n    * 정보통신, 전문·과학·기술 등에서 증가\n   ** 자동차, 고무·플라스틱 등에서 감소\n\n□ (소비) 소매판매는 승용차,...",
-        "source": "□ (생산) 전산업 생산은 서비스업(0.5%)*에서 생산이 늘었으나, 광공업(-4.8%)**에서 생산이 줄어 전월대비 1.3% 감소 \n\n    * 정보통신, 전문·과학·기술 등에서"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "e2834c74f4065e96",
-      "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
-      "source": {
-        "domain": "www.federalreserve.gov",
-        "name": "미국 연방준비제도 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-10-16T15:00:00+00:00",
-      "collected_at": "2026-10-20T20:15:15.679400",
-      "category": "기타",
-      "tags": [
-        "기타",
-        "연준"
-      ],
-      "country": "US",
-      "summary": {
-        "auto": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
-        "source": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "ca688a27006cdc18",
-      "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
-      "source": {
-        "domain": "www.federalreserve.gov",
-        "name": "미국 연방준비제도 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-10-13T18:00:00+00:00",
-      "collected_at": "2026-10-20T20:15:15.680200",
-      "category": "기타",
-      "tags": [
-        "기타"
-      ],
-      "country": "US",
-      "summary": {
-        "auto": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
-        "source": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "8fbb18afd13a46e5",
-      "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
-      "source": {
-        "domain": "www.federalreserve.gov",
-        "name": "미국 연방준비제도 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-10-08T20:30:00+00:00",
-      "collected_at": "2026-10-20T20:15:15.680410",
-      "category": "기타",
-      "tags": [
-        "기타",
-        "연준"
-      ],
-      "country": "US",
-      "summary": {
-        "auto": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to...",
-        "source": "Federal Reserve Board announces enforcement action against American Express Company to address, amon"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "08dfdbdaa9ce20cc",
-      "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
-      "source": {
-        "domain": "www.federalreserve.gov",
-        "name": "미국 연방준비제도 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-10-07T18:00:00+00:00",
-      "collected_at": "2026-10-20T20:15:15.680522",
-      "category": "기타",
-      "tags": [
-        "기타",
-        "연준"
-      ],
-      "country": "US",
-      "summary": {
-        "auto": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
-        "source": "Minutes of the Federal Open Market Committee, September 15-16, 2026"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "1bc4132b3f0326c5",
-      "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
-      "source": {
-        "domain": "www.federalreserve.gov",
-        "name": "미국 연방준비제도 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-10-05T20:30:00+00:00",
-      "collected_at": "2026-10-20T20:15:15.680589",
-      "category": "기타",
-      "tags": [
-        "기타",
-        "연준"
-      ],
-      "country": "US",
-      "summary": {
-        "auto": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
-        "source": "Federal Reserve Board announces approval of application by Isabella Bank Corporation"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "5d4b355ec3292efc",
-      "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
-      "source": {
-        "domain": "www.federalreserve.gov",
-        "name": "미국 연방준비제도 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-10-02T20:45:00+00:00",
-      "collected_at": "2026-10-20T20:15:15.680648",
-      "category": "기타",
-      "tags": [
-        "기타",
-        "연준"
-      ],
-      "country": "US",
-      "summary": {
-        "auto": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-        "source": "Federal Reserve Board announces approval of application by Fleur Capital Corporation"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "b441ff6c63c6936c",
-      "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
-      "source": {
-        "domain": "www.federalreserve.gov",
-        "name": "미국 연방준비제도 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-10-02T15:00:00+00:00",
-      "collected_at": "2026-10-20T20:15:15.680766",
-      "category": "기타",
-      "tags": [
-        "기타",
-        "연준"
-      ],
-      "country": "US",
-      "summary": {
-        "auto": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
-        "source": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc."
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "2d126dcc2a0a42d3",
-      "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
-      "source": {
-        "domain": "www.federalreserve.gov",
-        "name": "미국 연방준비제도 보도자료",
-        "type": "public"
-      },
-      "published_at": "2026-09-30T13:00:00+00:00",
-      "collected_at": "2026-10-20T20:15:15.680838",
-      "category": "기타",
-      "tags": [
-        "기타",
-        "연준"
-      ],
-      "country": "US",
-      "summary": {
-        "auto": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress...",
-        "source": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its"
-      },
-      "relevance_score": 50,
-      "is_trending": false
-    },
-    {
-      "id": "06f5c3b3308e77d0",
-      "title": "Christine Lagarde: IMFC Statement",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
+      "id": "6dad08c6a40d3fde",
+      "title": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
       "source": {
         "domain": "www.ecb.europa.eu",
         "name": "유럽중앙은행 보도자료",
         "type": "public"
       },
-      "published_at": "2026-10-17T07:00:00+02:00",
-      "collected_at": "2026-10-20T20:15:20.290214",
+      "published_at": "2026-10-19T08:00:00+02:00",
+      "collected_at": "2026-10-21T01:39:44.530362",
       "category": "기타",
       "tags": [
         "기타"
       ],
       "country": "EU",
       "summary": {
-        "auto": "Christine Lagarde: IMFC Statement",
+        "auto": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness",
         "source": ""
       },
       "relevance_score": 50,
       "is_trending": false
     },
     {
-      "id": "2c9018217f537673",
-      "title": "Philip R. Lane: The AI opportunity for Europe",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261013~9db9bf4fd6.en.html",
+      "id": "9b6e93b48f207022",
+      "title": "Frank Elderson: Ensuring resilience in the face of uncertainty",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261014~e4ca33588e.en.html",
       "source": {
         "domain": "www.ecb.europa.eu",
         "name": "유럽중앙은행 보도자료",
         "type": "public"
       },
-      "published_at": "2026-10-13T20:30:00+02:00",
-      "collected_at": "2026-10-20T20:15:20.290238",
+      "published_at": "2026-10-14T02:00:00+02:00",
+      "collected_at": "2026-10-21T01:39:44.530414",
       "category": "기타",
       "tags": [
         "기타"
       ],
       "country": "EU",
       "summary": {
-        "auto": "Philip R. Lane: The AI opportunity for Europe",
+        "auto": "Frank Elderson: Ensuring resilience in the face of uncertainty",
         "source": ""
       },
       "relevance_score": 50,
       "is_trending": false
     },
     {
-      "id": "69f37d867634f068",
-      "title": "Piero Cipollone: Interview with Corriere della Sera",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html",
+      "id": "a37490dc6bf90744",
+      "title": "Meeting of 9-10 September 2026",
+      "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261008~a10153d090.en.html",
       "source": {
         "domain": "www.ecb.europa.eu",
         "name": "유럽중앙은행 보도자료",
         "type": "public"
       },
-      "published_at": "2026-10-08T08:00:00+02:00",
-      "collected_at": "2026-10-20T20:15:20.290259",
+      "published_at": "2026-10-08T13:30:00+02:00",
+      "collected_at": "2026-10-21T01:39:44.530440",
       "category": "기타",
       "tags": [
         "기타"
       ],
       "country": "EU",
       "summary": {
-        "auto": "Piero Cipollone: Interview with Corriere della Sera",
+        "auto": "Meeting of 9-10 September 2026",
         "source": ""
       },
       "relevance_score": 50,
       "is_trending": false
     },
     {
-      "id": "a8eb6bf790b72864",
-      "title": "Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261007~6447350434.en.html",
+      "id": "28500ac6a43a82aa",
+      "title": "Frank Elderson: Effective supervision through timely remediation",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006_1~0df91e4e44.en.html",
       "source": {
         "domain": "www.ecb.europa.eu",
         "name": "유럽중앙은행 보도자료",
         "type": "public"
       },
-      "published_at": "2026-10-07T10:00:00+02:00",
-      "collected_at": "2026-10-20T20:15:20.290282",
+      "published_at": "2026-10-06T15:00:00+02:00",
+      "collected_at": "2026-10-21T01:39:44.530462",
       "category": "기타",
       "tags": [
         "기타"
       ],
       "country": "EU",
       "summary": {
-        "auto": "Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
+        "auto": "Frank Elderson: Effective supervision through timely remediation",
+        "source": ""
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    },
+    {
+      "id": "83020bb1c63ef28c",
+      "title": "Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006~0da978f159.en.html",
+      "source": {
+        "domain": "www.ecb.europa.eu",
+        "name": "유럽중앙은행 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-10-06T15:00:00+02:00",
+      "collected_at": "2026-10-21T01:39:44.530481",
+      "category": "기타",
+      "tags": [
+        "기타"
+      ],
+      "country": "EU",
+      "summary": {
+        "auto": "Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks",
         "source": ""
       },
       "relevance_score": 50,

@@ -1,0 +1,333 @@
+{
+  "generated_at": "2026-11-12T02:48:08.888089",
+  "version": "1.0",
+  "total_items": 14,
+  "items": [
+    {
+      "id": "2f91b2bec7153883",
+      "title": "2026년 10월 고용동향",
+      "url": "https://mods.go.kr/board.es?mid=a10301030200&act=view&bid=210&list_no=447893",
+      "source": {
+        "domain": "kostat.go.kr",
+        "name": "통계청 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-11-11T07:39:00",
+      "collected_at": "2026-11-11T10:08:02.590216",
+      "category": "거시경제",
+      "tags": [
+        "거시경제"
+      ],
+      "country": "KR",
+      "summary": {
+        "auto": "[2026년 10월 고용동향]\n\n▣ 15~64세 고용률(OECD 비교기준)은 70.4%로 전년동월대비 0.3%p 상승\n\n▣ 실업률은 2.0%로 전년동월대비 0.2%p 하락\n\n   ○ 실업자는 602천명으로 전년동월대비 5만6천명(-8.5%) 감소\n\n   ○ 청년층...",
+        "source": "[2026년 10월 고용동향]\n\n▣ 15~64세 고용률(OECD 비교기준)은 70.4%로 전년동월대비 0.3%p 상승\n\n▣ 실업률은 2.0%로 전년동월대비 0.2%p 하락\n\n   "
+      },
+      "relevance_score": 85,
+      "is_trending": false
+    },
+    {
+      "id": "36cf8d7c4b557387",
+      "title": "일일 금융외환시장 동향(11.11일) - bok.or.kr",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUzI1TWtrbXZOWVY5b1lMRTFURE5SNGlqRl9KMzI1c3lrejRXSm1CMjFVRnAtTG83SjF4YUt0bkpuR2Z1ZGpNVEg5WHpHTndFV3g5R0ttNnh2QTY2TlhQOTNMNEM5WG1vbExDaGJIOTNWRTZlbldhSTM1Y05QZTNNVTl5Nmw?oc=5",
+      "source": {
+        "domain": "www.bok.or.kr",
+        "name": "한국은행 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-11-11T16:03:37+00:00",
+      "collected_at": "2026-11-12T02:47:46.379096",
+      "category": "원자재",
+      "tags": [
+        "원자재",
+        "한국은행"
+      ],
+      "country": "KR",
+      "summary": {
+        "auto": "일일 금융외환시장 동향(11.11일) - bok.or.kr",
+        "source": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOUzI1TWtrbXZOWVY5b1lMRTFURE5SNGlqRl9KMz"
+      },
+      "relevance_score": 70,
+      "is_trending": false
+    },
+    {
+      "id": "a2c84bd2e172a52f",
+      "title": "국가데이터처, 중국 통계청과 양자회의 개최",
+      "url": "https://mods.go.kr/board.es?mid=a10301140000&act=view&bid=11825&list_no=447872",
+      "source": {
+        "domain": "kostat.go.kr",
+        "name": "통계청 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-11-09T17:51:00",
+      "collected_at": "2026-11-12T02:47:53.927410",
+      "category": "정책",
+      "tags": [
+        "정책"
+      ],
+      "country": "KR",
+      "summary": {
+        "auto": "국가데이터처(처장 안형준)는 11월 3일부터 6일까지 대전과 부산에서 중국 통계청과 양자회의를 개최한다.\n\n  이번 회의에는 롼 젠훙(Ms. RUAN Jianhong) 차장을 단장으로 하는 중국 통계청 대표단 5명이 참석한다. 양 기관은 1993년부터 상호 방문을...",
+        "source": "국가데이터처(처장 안형준)는 11월 3일부터 6일까지 대전과 부산에서 중국 통계청과 양자회의를 개최한다.\n\n  이번 회의에는 롼 젠훙(Ms. RUAN Jianhong) 차장을 단장"
+      },
+      "relevance_score": 65,
+      "is_trending": false
+    },
+    {
+      "id": "f326779c210e0575",
+      "title": "국민을 위한 특별한 성과로 데이터·통계 혁신을 이끈다",
+      "url": "https://mods.go.kr/board.es?mid=a10301150000&act=view&bid=246&list_no=447785",
+      "source": {
+        "domain": "kostat.go.kr",
+        "name": "통계청 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-11-02T11:24:00",
+      "collected_at": "2026-11-12T02:47:53.927561",
+      "category": "정책",
+      "tags": [
+        "정책"
+      ],
+      "country": "KR",
+      "summary": {
+        "auto": "국가데이터처(처장 안형준)는 지난 4월에 이어, 지역균형 발전 및 국민 안전을 위한 통계·데이터서비스 혁신 등의 특별한 성과를 창출한 직원을 선정하여 11월 2일(월) 포상금 수여식을 실시하였다.\n\n 「특별성과 포상금 제도」는 탁월한 성과를 거둔 직원에게 파격적인...",
+        "source": "국가데이터처(처장 안형준)는 지난 4월에 이어, 지역균형 발전 및 국민 안전을 위한 통계·데이터서비스 혁신 등의 특별한 성과를 창출한 직원을 선정하여 11월 2일(월) 포상금 수여"
+      },
+      "relevance_score": 65,
+      "is_trending": false
+    },
+    {
+      "id": "995a2369a7ff72f6",
+      "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
+      "source": {
+        "domain": "www.ecb.europa.eu",
+        "name": "유럽중앙은행 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-11-04T01:00:00+01:00",
+      "collected_at": "2026-11-12T02:48:08.427889",
+      "category": "거시경제",
+      "tags": [
+        "거시경제"
+      ],
+      "country": "EU",
+      "summary": {
+        "auto": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
+        "source": ""
+      },
+      "relevance_score": 65,
+      "is_trending": false
+    },
+    {
+      "id": "2557fbdc158f9ffb",
+      "title": "국가데이터 민관협의체 4차 회의 개최, 국가데이터 관리를 위한 현장의 목소리 청취",
+      "url": "https://mods.go.kr/board.es?mid=a10301150000&act=view&bid=246&list_no=447900",
+      "source": {
+        "domain": "kostat.go.kr",
+        "name": "통계청 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-11-11T11:45:00",
+      "collected_at": "2026-11-11T18:05:59.286585",
+      "category": "기타",
+      "tags": [
+        "기타"
+      ],
+      "country": "KR",
+      "summary": {
+        "auto": "국가데이터처는 11월 11일 오전 10시 「국가데이터 민관협의체」 4차 회의를 개최\n\n 올해 4번째 개최되는 「국가데이터 민관협의체」회의는 국가데이터 운영의 효율성을 극대화하기 위한 다각적인 방안이 논의되었다.\n\n( 주요 안건 )\n 1. 국가데이터의 효율적인 운영을...",
+        "source": "국가데이터처는 11월 11일 오전 10시 「국가데이터 민관협의체」 4차 회의를 개최\n\n 올해 4번째 개최되는 「국가데이터 민관협의체」회의는 국가데이터 운영의 효율성을 극대화하기 위"
+      },
+      "relevance_score": 60,
+      "is_trending": false
+    },
+    {
+      "id": "cb25d7fb59e210f7",
+      "title": "한국은행 경제통계시스템 - 한국은행 경제통계시스템",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5BOTVzdVd6enk2dndud1JwX2Q0bHRCMmF4R1NsTVBJNi1nYThUalJleVR4RC12TjVmYjBN?oc=5",
+      "source": {
+        "domain": "www.bok.or.kr",
+        "name": "한국은행 보도자료",
+        "type": "public"
+      },
+      "published_at": "2012-05-01T18:27:25+00:00",
+      "collected_at": "2026-11-12T02:47:46.378800",
+      "category": "원자재",
+      "tags": [
+        "원자재",
+        "한국은행"
+      ],
+      "country": "KR",
+      "summary": {
+        "auto": "한국은행 경제통계시스템",
+        "source": "<a href=\"https://news.google.com/rss/articles/CBMiO0FVX3lxTE5BOTVzdVd6enk2dndud1JwX2Q0bHRCMmF4R1NsTV"
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    },
+    {
+      "id": "0c5c8ad46bdc61d3",
+      "title": "한국은행 | 채용사이트 - 한국은행 | 채용사이트",
+      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE43Tlc5VVN6c2NFT0cxWE5HQWM0MVNtb21TaGczd042S09tLWVXR0lvRDY1OFdFVGVlYXpOcg?oc=5",
+      "source": {
+        "domain": "www.bok.or.kr",
+        "name": "한국은행 보도자료",
+        "type": "public"
+      },
+      "published_at": "2009-09-11T19:55:00+00:00",
+      "collected_at": "2026-11-12T02:47:46.379158",
+      "category": "원자재",
+      "tags": [
+        "원자재",
+        "한국은행"
+      ],
+      "country": "KR",
+      "summary": {
+        "auto": "한국은행 | 채용사이트",
+        "source": "<a href=\"https://news.google.com/rss/articles/CBMiPEFVX3lxTE43Tlc5VVN6c2NFT0cxWE5HQWM0MVNtb21TaGczd0"
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    },
+    {
+      "id": "0be8fd496f5eb58c",
+      "title": "[제2025-2호] AI와 한국경제 - bok.or.kr",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPaDdEY3djXzl0TlZFZDhPT0Ewcmc5X05fTUVjcktMdlRJVkEzblRIU25EUWMzVW42bXRTZDVOMXZIWDFLNHFVeGpVRlc5QzJnZFFyLUl5S3pLem1nSVJsVGREVngxRTUwSElpdklCR1VBOE91RHpSMlhUSzRwcmFMaTBSeWZRb3BDczlJWGxPbnAtUWxUcC0xVjVIZ1o0RmtPVDQtZngzVzRuZ201M3MtcUxha1A5akVWZERtZnV5RHJpVzBYRXhtWUJXbkZENU1nM0FFbk5wck55OFJLckxQRHlyOHdScXYxb01abDJ5WXBXOGJTS1A1Z3lnY3NsRE9GR0UyQ2x0WE03QV8ta0lyZXJUQkFEWUxwV2Nlc1dHaHJ0UGFrVEdjSllMN2c?oc=5",
+      "source": {
+        "domain": "www.bok.or.kr",
+        "name": "한국은행 보도자료",
+        "type": "public"
+      },
+      "published_at": "2025-02-10T08:00:00+00:00",
+      "collected_at": "2026-11-12T02:47:46.379279",
+      "category": "기타",
+      "tags": [
+        "기타",
+        "한국은행"
+      ],
+      "country": "KR",
+      "summary": {
+        "auto": "[제2025-2호] AI와 한국경제 - bok.or.kr",
+        "source": "<a href=\"https://news.google.com/rss/articles/CBMirAJBVV95cUxPaDdEY3djXzl0TlZFZDhPT0Ewcmc5X05fTUVjck"
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    },
+    {
+      "id": "6bd91315d0c8d739",
+      "title": "2026년 3분기 기업특성별 무역통계(잠정) 결과",
+      "url": "https://mods.go.kr/board.es?mid=a10301090900&act=view&bid=11817&list_no=447867",
+      "source": {
+        "domain": "kostat.go.kr",
+        "name": "통계청 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-11-09T16:47:00",
+      "collected_at": "2026-11-12T02:47:53.927165",
+      "category": "무역",
+      "tags": [
+        "무역"
+      ],
+      "country": "KR",
+      "summary": {
+        "auto": "□ 2026년 3분기 수출액은 대기업, 중견기업, 중소기업에서 모두 늘어 전년동분기대비 72.3% 증가, 수입액은 대기업, 중견기업, 중소기업에서 모두 늘어 25.0% 증가\n\n ○ (대기업) 수출액은 자본재, 원자재에서 늘어 103.5% 증가, 수입액은 자본재,...",
+        "source": "□ 2026년 3분기 수출액은 대기업, 중견기업, 중소기업에서 모두 늘어 전년동분기대비 72.3% 증가, 수입액은 대기업, 중견기업, 중소기업에서 모두 늘어 25.0% 증가\n\n ○"
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    },
+    {
+      "id": "2182f7a530473bf5",
+      "title": "2025년 다문화 인구동태 통계",
+      "url": "https://mods.go.kr/board.es?mid=a10301020300&act=view&bid=204&list_no=447832",
+      "source": {
+        "domain": "kostat.go.kr",
+        "name": "통계청 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-11-04T15:27:00",
+      "collected_at": "2026-11-12T02:47:53.927334",
+      "category": "원자재",
+      "tags": [
+        "원자재"
+      ],
+      "country": "KR",
+      "summary": {
+        "auto": "2025년 다문화 인구동태 통계 결과 \n\no 다문화 혼인(21,399건)은 전년대비 0.2%(-51건) 감소\no 다문화 이혼(8,104건)은 전년대비 1.4%(112건) 증가\no 다문화 출생(13,347명)은 전년대비 0.5%(-69명) 감소\n\n※ 기타 자세한 내용은...",
+        "source": "2025년 다문화 인구동태 통계 결과 \n\no 다문화 혼인(21,399건)은 전년대비 0.2%(-51건) 감소\no 다문화 이혼(8,104건)은 전년대비 1.4%(112건) 증가\no "
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    },
+    {
+      "id": "2ecf4fac727925ee",
+      "title": "2026년 8월 경제활동인구조사 비임금근로 및 비경제활동인구 부가조사 결과",
+      "url": "https://mods.go.kr/board.es?mid=a10301030200&act=view&bid=210&list_no=447820",
+      "source": {
+        "domain": "kostat.go.kr",
+        "name": "통계청 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-11-03T15:31:00",
+      "collected_at": "2026-11-12T02:47:53.927473",
+      "category": "원자재",
+      "tags": [
+        "원자재"
+      ],
+      "country": "KR",
+      "summary": {
+        "auto": "◎ 비임금근로\n\n□ 비임금근로자는 662만 5천명으로 전년동월대비 7만 1천명 증가, 취업자 중 비임금근로자 비중은 22.7%로 0.1%p 상승 \n  ○ 고용원이 있는 자영업자는 148만 1천명으로 4만 7천명 증가, 고용원이 없는 자영업자는 430만 3천명으로 6만...",
+        "source": "◎ 비임금근로\n\n□ 비임금근로자는 662만 5천명으로 전년동월대비 7만 1천명 증가, 취업자 중 비임금근로자 비중은 22.7%로 0.1%p 상승 \n  ○ 고용원이 있는 자영업자는 "
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    },
+    {
+      "id": "d8db66339e29f146",
+      "title": "2026년 9월 온라인쇼핑동향 및 3/4분기 온라인 해외 직접 판매 및 구매 동향",
+      "url": "https://mods.go.kr/board.es?mid=a10301120300&act=view&bid=241&list_no=447781",
+      "source": {
+        "domain": "kostat.go.kr",
+        "name": "통계청 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-11-02T09:28:00",
+      "collected_at": "2026-11-12T02:47:53.927623",
+      "category": "원자재",
+      "tags": [
+        "원자재"
+      ],
+      "country": "KR",
+      "summary": {
+        "auto": "□ 온라인쇼핑동향\n\n ○ 2026년 9월 온라인쇼핑 거래액은 24조 9,719억원으로 전년동월대비 4.1% 증가했으며, 온라인쇼핑 중 모바일쇼핑 거래액은 19조 846억원으로 5.4% 증가\n\n  - 전월대비 온라인쇼핑 거래액은 2.7%, 모바일쇼핑 거래액은 0.2%...",
+        "source": "□ 온라인쇼핑동향\n\n ○ 2026년 9월 온라인쇼핑 거래액은 24조 9,719억원으로 전년동월대비 4.1% 증가했으며, 온라인쇼핑 중 모바일쇼핑 거래액은 19조 846억원으로 5."
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    },
+    {
+      "id": "b9dcd2ec49851590",
+      "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
+      "source": {
+        "domain": "www.ecb.europa.eu",
+        "name": "유럽중앙은행 보도자료",
+        "type": "public"
+      },
+      "published_at": "2026-11-07T15:00:00+01:00",
+      "collected_at": "2026-11-12T02:48:08.427808",
+      "category": "기타",
+      "tags": [
+        "기타"
+      ],
+      "country": "EU",
+      "summary": {
+        "auto": "Christine Lagarde: Interview with Yomiuri Shimbun",
+        "source": ""
+      },
+      "relevance_score": 50,
+      "is_trending": false
+    }
+  ]
+}
